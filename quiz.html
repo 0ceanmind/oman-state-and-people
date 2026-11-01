@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Oman Question Bank</title>
+<meta name="description" content="Interactive MCQ question bank for Oman: State and People (UHE00111) — all themes.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2305060a'/%3E%3Cpath d='M18 46V20l8 4v22M34 46V18l12 8v20' stroke='%23e8b86d' stroke-width='5' fill='none' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/quiz.css?v=2">
+</head>
+<body>
+<header class="top">
+  <a class="back" href="index.html">← Presentation</a>
+  <div class="brand">Oman: State and People · <b>Question Bank</b></div>
+  <div class="hud" id="hud"></div>
+</header>
+<div class="bar"><i id="prog"></i></div>
+
+<main id="app">
+  <!-- start -->
+  <section id="v-start" class="view on">
+    <p class="eyebrow">Professor’s question bank</p>
+    <h1>Prove you <em>know it.</em></h1>
+    <p class="lead"><span id="total">0</span> questions written from the course text, the end-of-chapter questions and your past paper.</p>
+
+    <h3 class="lbl">Themes</h3>
+    <div class="chips" id="themes"></div>
+
+    <div class="opts">
+      <div>
+        <h3 class="lbl">Mode</h3>
+        <div class="seg" id="mode">
+          <button data-v="practice" class="on">Practice<small>instant feedback</small></button>
+          <button data-v="exam">Exam<small>timed · results at end</small></button>
+        </div>
+      </div>
+      <div>
+        <h3 class="lbl">Questions</h3>
+        <div class="seg" id="count">
+          <button data-v="10">10</button><button data-v="20" class="on">20</button><button data-v="40">40</button><button data-v="all">All</button>
+        </div>
+      </div>
+    </div>
+    <div class="go">
+      <button class="btn" id="start">Start</button>
+      <button class="btn ghost" id="review" hidden>Retry my mistakes (<span id="wrongN">0</span>)</button>
+    </div>
+    <div class="mastery" id="mastery"></div>
+  </section>
+
+  <!-- question -->
+  <section id="v-q" class="view">
+    <div class="qhead"><span class="badge" id="qtheme"></span><span class="qtopic" id="qtopic"></span><span class="qnum" id="qnum"></span></div>
+    <h2 id="qtext"></h2>
+    <div class="answers" id="answers"></div>
+    <div class="explain" id="explain" hidden></div>
+    <div class="qnav">
+      <span class="kb">Keys <kbd>1</kbd>–<kbd>4</kbd> to answer · <kbd>Enter</kbd> next</span>
+      <button class="btn" id="next" hidden>Next</button>
+    </div>
+  </section>
+
+  <!-- results -->
+  <section id="v-res" class="view">
+    <div class="res-top">
+      <svg class="ring" viewBox="0 0 220 220"><circle cx="110" cy="110" r="94" class="trk"/><circle cx="110" cy="110" r="94" class="val" id="ringv"/><text x="110" y="118" id="ringt">0%</text><text x="110" y="148" class="sub" id="rings"></text></svg>
+      <div>
+        <p class="eyebrow" id="verdictE"></p>
+        <h1 id="verdict"></h1>
+        <p class="lead" id="resline"></p>
+        <div class="go"><button class="btn" id="again">New quiz</button><button class="btn ghost" id="retryWrong">Retry the ones I missed</button></div>
+      </div>
+    </div>
+    <h3 class="lbl">By theme</h3>
+    <div class="themebars" id="tbars"></div>
+    <h3 class="lbl" id="revH">Review</h3>
+    <div class="reviewlist" id="rlist"></div>
+  </section>
+</main>
+<script src="js/quiz.js?v=2"></script>
+</body>
+</html>

@@ -1,0 +1,4306 @@
+[
+ {
+  "id": "t1-001",
+  "theme": "1",
+  "topic": "Names of Oman",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which name did the ancient Sumerians use for Oman?",
+  "options": [
+   "Omanon Emporion",
+   "Mazoon",
+   "Magan",
+   "Sultanate of Muscat and Oman"
+  ],
+  "answer": 2,
+  "explain": "The course says the ancient Sumerians called Oman 'Magan' because of its copper mines and maritime trade.",
+  "source": "Theme 1 – Name and its significance",
+  "origin": "course"
+ },
+ {
+  "id": "t1-002",
+  "theme": "1",
+  "topic": "Names of Oman",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Who gave Oman the name 'Mazoon'?",
+  "options": [
+   "The ancient Greeks",
+   "The Persians (Sasanians)",
+   "The Portuguese (16th century)",
+   "The ancient Sumerians"
+  ],
+  "answer": 1,
+  "explain": "'Mazoon' was the name used by the Persians (Sasanians).",
+  "source": "Theme 1 – Name and its significance",
+  "origin": "course"
+ },
+ {
+  "id": "t1-003",
+  "theme": "1",
+  "topic": "Names of Oman",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What does the name 'Mazoon' refer to, according to the course?",
+  "options": [
+   "Skilled seafaring, trade and early conversion to Islam",
+   "Control over Zanzibar and the East African coast",
+   "Rich copper mines and busy maritime trade routes",
+   "Abundant water and springs, linked to rain clouds"
+  ],
+  "answer": 3,
+  "explain": "Mazoon comes from the abundance of water and flowing springs; the word is linked to the meaning of rain clouds.",
+  "source": "Theme 1 – Name and its significance",
+  "origin": "course"
+ },
+ {
+  "id": "t1-004",
+  "theme": "1",
+  "topic": "Names of Oman",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which name did the Greeks give to Oman?",
+  "options": [
+   "Omanon Emporion",
+   "Mazoon",
+   "Magan",
+   "Sultanate of Oman and Zanzibar"
+  ],
+  "answer": 0,
+  "explain": "The course says the Greeks called Oman 'Omanon Emporion' because of its seafaring and trade.",
+  "source": "Theme 1 – Name and its significance",
+  "origin": "course",
+  "note": "The course also gives 'early conversion to Islam' as a reason for the Greek name. That cannot be right, because the classical Greek name is centuries older than Islam. Remember the seafaring and trade link."
+ },
+ {
+  "id": "t1-005",
+  "theme": "1",
+  "topic": "Names of Oman",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which name reflects the 18th–19th-century period when Oman ruled its own territory and the East African island of Zanzibar?",
+  "options": [
+   "Sultanate of Muscat and Oman",
+   "Sultanate of Oman and Zanzibar",
+   "Magan",
+   "Omanon Emporion"
+  ],
+  "answer": 1,
+  "explain": "The name 'Sultanate of Oman and Zanzibar' comes from the period when Oman controlled Zanzibar in the 18th and 19th centuries.",
+  "source": "Theme 1 – Name and its significance",
+  "origin": "course"
+ },
+ {
+  "id": "t1-006",
+  "theme": "1",
+  "topic": "Names of Oman",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, the name 'Sultanate of Muscat and Oman' is linked to the rise of which dynasty, and in which year?",
+  "options": [
+   "The Al Busaid dynasty under Said bin Sultan, 1806",
+   "The Ya'aruba dynasty under Sultan bin Saif, 1650",
+   "The Nabhani dynasty, 1507",
+   "The Al Busaid dynasty under Ahmed bin Said, 1744"
+  ],
+  "answer": 3,
+  "explain": "The course says the name arose with the Al Busaid dynasty under Ahmed bin Said Al Busaidi in 1744.",
+  "source": "Theme 1 – Name and its significance",
+  "origin": "course",
+  "note": "Historically, Ahmad bin Said held the title Imam. 'Sultanate of Muscat and Oman' was the official name mainly in the 19th and 20th centuries, until 1970. Use the course's answer (Al Busaid, 1744) in the exam."
+ },
+ {
+  "id": "t1-007",
+  "theme": "1",
+  "topic": "Names of Oman",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "The country became officially known as the 'Sultanate of Oman' during the reign of Sultan Qaboos bin Said, a name that reflects sovereignty, unity and the state's modern identity.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course says that in the modern era, under Sultan Qaboos, the official name became 'Sultanate of Oman', reflecting sovereignty, unity and modern identity.",
+  "source": "Theme 1 – Name and its significance",
+  "origin": "course"
+ },
+ {
+  "id": "t1-008",
+  "theme": "1",
+  "topic": "Concept of identity",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "According to the course, identity always consists of which three fundamental elements?",
+  "options": [
+   "Language, wealth and population",
+   "Religion, tribe and economy",
+   "Belief, language and heritage",
+   "Land, flag and army"
+  ],
+  "answer": 2,
+  "explain": "The course states that identity always consists of three elements: belief, language and heritage.",
+  "source": "Theme 1 – The concept of identity",
+  "origin": "course"
+ },
+ {
+  "id": "t1-009",
+  "theme": "1",
+  "topic": "Environmental diversity",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Omani identity extends across Omani geography from which point in the north?",
+  "options": [
+   "The Strait of Hormuz in Musandam",
+   "Ali Strait in Dhofar Governorate",
+   "The port of Sohar in North Al Batinah",
+   "Ras Al Hadd in South Al Sharqiyah"
+  ],
+  "answer": 0,
+  "explain": "The course says the identity extends from the Strait of Hormuz in Musandam, on the Arabian Gulf, in the north to 'Ali Strait' in Dhofar, on the Arabian Sea, in the south.",
+  "source": "Theme 1 – Role of environmental diversity",
+  "origin": "course",
+  "note": "'Ali Strait' is the course's own wording for the southern limit in Dhofar. Oman's southern border point is usually named Ras Darbat Ali."
+ },
+ {
+  "id": "t1-010",
+  "theme": "1",
+  "topic": "Demographics",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "According to the national statistics cited in the course, Oman's population exceeds:",
+  "options": [
+   "10 million",
+   "4.5 million",
+   "2.5 million",
+   "6 million"
+  ],
+  "answer": 1,
+  "explain": "The course says Oman's population exceeds 4.5 million.",
+  "source": "Theme 1 – Demographic indicators",
+  "origin": "course"
+ },
+ {
+  "id": "t1-011",
+  "theme": "1",
+  "topic": "Demographics",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "What share of Oman's population lives in urban areas, according to the course?",
+  "options": [
+   "Under 50%",
+   "About 40%",
+   "About 60%",
+   "Over 80%"
+  ],
+  "answer": 3,
+  "explain": "Over 80% of the population lives in urban areas, especially Muscat, Sohar and Salalah.",
+  "source": "Theme 1 – Demographic indicators",
+  "origin": "course"
+ },
+ {
+  "id": "t1-012",
+  "theme": "1",
+  "topic": "Demographics",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which cities does the course name as the main centres of urban growth?",
+  "options": [
+   "Nizwa, Bahla and Rustaq",
+   "Muscat, Muttrah and Sur",
+   "Muscat, Sohar and Salalah",
+   "Sur, Ibri and Khasab"
+  ],
+  "answer": 2,
+  "explain": "The course names Muscat, Sohar and Salalah. Bahla, Nizwa and Rustaq appear in the course as forts, not urban centres.",
+  "source": "Theme 1 – Demographic indicators",
+  "origin": "course"
+ },
+ {
+  "id": "t1-013",
+  "theme": "1",
+  "topic": "Environment & heritage",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which set of practices does the course give as evidence of Omanis' traditional relationship with their environment?",
+  "options": [
+   "Falaj irrigation, date palms and fishing",
+   "Copper mining, shipbuilding and pearl trading",
+   "Camel racing, silverwork and halwa preparation",
+   "Majlis gatherings, storytelling and folk poetry"
+  ],
+  "answer": 0,
+  "explain": "Falaj irrigation, date palm cultivation and sustainable fishing are named as integral to Omani heritage, especially in rural and coastal communities. Camel racing and the others are listed elsewhere as heritage components.",
+  "source": "Theme 1 – Demographic indicators and relationship with the environment",
+  "origin": "course"
+ },
+ {
+  "id": "t1-014",
+  "theme": "1",
+  "topic": "Family and social institutions",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "The course states that the nuclear family has now replaced the extended family system in Oman.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "The course says the extended family system 'remains robust', with close ties between parents, children, grandparents and even distant relatives.",
+  "source": "Theme 1 – Family and social institutions",
+  "origin": "course"
+ },
+ {
+  "id": "t1-015",
+  "theme": "1",
+  "topic": "Family and social institutions",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, what role does the Majlis play in Omani society?",
+  "options": [
+   "A market where traditional crafts and silverwork are sold",
+   "A school for Quranic memorisation and basic literacy",
+   "A government court that applies tribal law in each wilayat",
+   "A forum for community discussion and resolving conflicts"
+  ],
+  "answer": 3,
+  "explain": "The Majlis (gathering place) is described as a platform for community discourse, conflict resolution and the reinforcement of shared customs.",
+  "source": "Theme 1 – Family and social institutions",
+  "origin": "course"
+ },
+ {
+  "id": "t1-016",
+  "theme": "1",
+  "topic": "Family and social institutions",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which social institutions does the course say contribute to social cohesion and mutual support in Oman?",
+  "options": [
+   "Religious, tribal and neighbourhood institutions",
+   "Political parties, trade unions and private social clubs",
+   "Foreign embassies, NGOs and international companies",
+   "Military barracks, police stations and the courts"
+  ],
+  "answer": 0,
+  "explain": "Social institutions include religious establishments, tribal frameworks and neighbourhood councils.",
+  "source": "Theme 1 – Family and social institutions",
+  "origin": "course"
+ },
+ {
+  "id": "t1-017",
+  "theme": "1",
+  "topic": "Heritage and history",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "On which occasion did Sultan Qaboos say that Allah had blessed Oman and its people with tolerance, kindness and the rejection of hatred and discord?",
+  "options": [
+   "His first speech in 1970",
+   "The opening of Majlis Oman in 2011",
+   "National Day in 1972",
+   "The opening of Sultan Qaboos University"
+  ],
+  "answer": 1,
+  "explain": "The course quotes his speech at the opening of Majlis Oman in 2011.",
+  "source": "Theme 1 – Role of heritage and history",
+  "origin": "course"
+ },
+ {
+  "id": "t1-018",
+  "theme": "1",
+  "topic": "Constants and variables",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In describing Omani identity, what do the 'constants' refer to?",
+  "options": [
+   "The nation's capacity to adapt to change",
+   "Population and urbanisation statistics",
+   "Ingrained traditions, language and customs",
+   "New technologies and ideas imported from abroad"
+  ],
+  "answer": 2,
+  "explain": "Constants are the enduring elements (traditions, language, customs). Variables reflect the nation's capacity to adapt to change.",
+  "source": "Theme 1 – Constants and variables, authenticity and modernity",
+  "origin": "course"
+ },
+ {
+  "id": "t1-019",
+  "theme": "1",
+  "topic": "Constants and variables",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, how does authenticity show itself in Omani identity?",
+  "options": [
+   "Preserving historic buildings, crafts and practices",
+   "Replacing local customs with international standards",
+   "Rejecting modern technology and avoiding all global ideas",
+   "Limiting heritage to museums and tourist sites"
+  ],
+  "answer": 0,
+  "explain": "Authenticity shows in the preservation of historic architecture, traditional crafts and cultural practices, while Oman embraces modernity without compromising its values.",
+  "source": "Theme 1 – Constants and variables, authenticity and modernity",
+  "origin": "course"
+ },
+ {
+  "id": "t1-020",
+  "theme": "1",
+  "topic": "Tolerance and acceptance",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, what has cultivated the Omani spirit of tolerance and acceptance of others?",
+  "options": [
+   "Its heavy dependence on oil revenues since the 1960s",
+   "Its isolation behind mountain ranges for many centuries",
+   "Its long history of maritime trade and cultural contact",
+   "The adoption of Western legal systems after 1970"
+  ],
+  "answer": 2,
+  "explain": "The course says Oman's extensive maritime trade and interaction with diverse cultures cultivated tolerance and acceptance of others.",
+  "source": "Theme 1 – Constants and variables, authenticity and modernity",
+  "origin": "course"
+ },
+ {
+  "id": "t1-021",
+  "theme": "1",
+  "topic": "Shining images of heritage",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which forts does the course name as enduring symbols of Oman's architectural skill and historical strength?",
+  "options": [
+   "Jalali, Mirani and Muttrah",
+   "Khasab, Sur and Ibri",
+   "Muscat, Sohar and Salalah",
+   "Bahla, Nizwa and Rustaq"
+  ],
+  "answer": 3,
+  "explain": "The course names the forts of Bahla, Nizwa and Rustaq.",
+  "source": "Theme 1 – Shining images of Omani heritage",
+  "origin": "course"
+ },
+ {
+  "id": "t1-022",
+  "theme": "1",
+  "topic": "Shining images of heritage",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which traditional souq does the course give as an example of Oman's lively commercial spirit and cultural exchange?",
+  "options": [
+   "Nizwa Souq",
+   "Mutrah Souq",
+   "Sohar Souq",
+   "Ibra Souq"
+  ],
+  "answer": 1,
+  "explain": "Mutrah Souq is named as a symbol of Oman's commercial spirit and cultural exchange.",
+  "source": "Theme 1 – Shining images of Omani heritage",
+  "origin": "course"
+ },
+ {
+  "id": "t1-023",
+  "theme": "1",
+  "topic": "Cultural diplomacy",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Where did the ship Sohar sail to on its voyage, cited as an example of Omani cultural diplomacy?",
+  "options": [
+   "Zanzibar, East Africa",
+   "Canton, China",
+   "Venice, Italy",
+   "Osaka, Japan"
+  ],
+  "answer": 1,
+  "explain": "The course says the Sohar sailed to the port of Canton in China.",
+  "source": "Theme 1 – Role of cultural diversity",
+  "origin": "course",
+  "note": "The course gives the date as '31st November 1981', which does not exist. The Sohar actually left Muscat in November 1980 and reached Canton in mid-1981. Learn the destination, the duration and the distance rather than the date."
+ },
+ {
+  "id": "t1-024",
+  "theme": "1",
+  "topic": "Cultural diplomacy",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which description of the ship Sohar's voyage matches the course?",
+  "options": [
+   "About four months, through 21 ports, on the Royal Yacht",
+   "About two years, around 16,000 miles, escorted by the navy",
+   "About eight months, around 6,000 miles, in a vessel with no engine",
+   "About eight months, around 6,000 miles, using a diesel engine"
+  ],
+  "answer": 2,
+  "explain": "The voyage lasted eight months and covered 6,000 miles in a vessel without an engine.",
+  "source": "Theme 1 – Role of cultural diversity",
+  "origin": "course"
+ },
+ {
+  "id": "t1-025",
+  "theme": "1",
+  "topic": "Cultural diplomacy",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which route did the Fulk Al Salamah voyage (studying the Silk Road with UNESCO) follow?",
+  "options": [
+   "From Muscat to Canton, via 16 ports including Sohar and Sur",
+   "From Osaka to Muscat, via 21 ports including Zanzibar and Goa",
+   "From Salalah to Venice, via 14 ports including Aden and Mumbai",
+   "From Venice to Osaka, via 21 ports including Muscat and Salalah"
+  ],
+  "answer": 3,
+  "explain": "It set off from Venice, passed through 21 ports including Muscat and Salalah, and ended in Osaka, Japan. It lasted more than four months, from October to March 1991.",
+  "source": "Theme 1 – Role of cultural diversity",
+  "origin": "course"
+ },
+ {
+  "id": "t1-026",
+  "theme": "1",
+  "topic": "Cultural diplomacy",
+  "type": "tf",
+  "difficulty": "medium",
+  "q": "Sultan Qaboos allocated the Royal Yacht Fulk Al Salamah to a voyage organised with UNESCO to study the Silk Road and ancient land and sea trade.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course describes the initiative as being in cooperation with UNESCO to study the Silk Road, with Sultan Qaboos providing the Royal Yacht Fulk Al Salamah.",
+  "source": "Theme 1 – Role of cultural diversity",
+  "origin": "course"
+ },
+ {
+  "id": "t1-027",
+  "theme": "1",
+  "topic": "Cultural diplomacy",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, how many Sultan Qaboos Scientific Chairs exist, and in how many universities?",
+  "options": [
+   "16 chairs in 14 universities",
+   "14 chairs in 16 universities",
+   "21 chairs in 14 universities",
+   "16 chairs in 21 universities"
+  ],
+  "answer": 0,
+  "explain": "The course states there are (16) scientific chairs distributed across (14) universities worldwide.",
+  "source": "Theme 1 – Role of cultural diversity",
+  "origin": "course"
+ },
+ {
+  "id": "t1-028",
+  "theme": "1",
+  "topic": "Cultural diversity",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "According to the course, Oman lies strategically at the crossroads of:",
+  "options": [
+   "Europe, Africa and the Americas",
+   "Asia, Europe and Australia",
+   "The Mediterranean, Africa and Europe",
+   "Africa, Asia and the Arabian Peninsula"
+  ],
+  "answer": 3,
+  "explain": "Oman is described as lying at the crossroads of Africa, Asia and the Arabian Peninsula.",
+  "source": "Theme 1 – Role of cultural diversity",
+  "origin": "course"
+ },
+ {
+  "id": "t1-029",
+  "theme": "1",
+  "topic": "Heritage and culture",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which list contains only heritage components that the course says still thrive in modern Omani life?",
+  "options": [
+   "Falconry, pearl diving and horse racing",
+   "Halwa preparation, camel racing and silverwork",
+   "Copper mining, frankincense trade and pottery exports",
+   "Oil refining, banking and tourism"
+  ],
+  "answer": 1,
+  "explain": "The listed components are majlis gatherings, halwa preparation, camel racing, silverwork, maritime practices and traditional crafts.",
+  "source": "Theme 1 – Relationship between heritage and culture",
+  "origin": "course"
+ },
+ {
+  "id": "t1-030",
+  "theme": "1",
+  "topic": "Social change",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, Omani culture represents:",
+  "options": [
+   "The intellectual framework of Omani identity in dealing with others",
+   "A fixed set of customs that must never change under any circumstances",
+   "Mainly the economic and trading system of the Sultanate",
+   "An imported model based mainly on Western culture and values"
+  ],
+  "answer": 0,
+  "explain": "Omani culture is described as 'the intellectual framework' that reflects a distinctive feature of Omani identity in interacting with others.",
+  "source": "Theme 1 – Social change and Omani culture",
+  "origin": "course"
+ },
+ {
+  "id": "t1-031",
+  "theme": "1",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In the 1975 quotation that opens Theme 1, how did Sultan Qaboos describe attention to the religious aspect of education?",
+  "options": [
+   "As a duty for schools only, not for the army",
+   "As less important than economic development",
+   "As a religious duty that allows no debate",
+   "As an optional matter for each family"
+  ],
+  "answer": 2,
+  "explain": "The quotation ends: 'This is a religious duty that allows no debate.' It covers schools, military barracks and wider society.",
+  "source": "Theme 1 – Opening quotation (Sultan Qaboos, 1975)",
+  "origin": "course"
+ },
+ {
+  "id": "t1-032",
+  "theme": "1",
+  "topic": "Heritage and history",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "A student has to show that Omani identity rejects intolerance. Which point from Sultan Qaboos's 2011 speech best supports this?",
+  "options": [
+   "It urged Omanis to limit their contact with other peoples",
+   "It said cultural institutions tend to weaken society",
+   "It stressed tolerance and the rejection of hatred and discord",
+   "It focused mainly on economic competition with neighbouring states"
+  ],
+  "answer": 2,
+  "explain": "The 2011 speech praised tolerance, kindness, good treatment of others and the rejection of hatred and discord.",
+  "source": "Theme 1 – Role of heritage and history",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-033",
+  "theme": "1",
+  "topic": "Cultural diplomacy",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "What did the voyage of the ship Sohar represent?",
+  "options": [
+   "Oman's preference for military expansion overseas",
+   "Oman's maritime heritage and cultural engagement",
+   "Oman's rejection of cooperation with Asian nations",
+   "A commercial project to export Omani oil to China"
+  ],
+  "answer": 1,
+  "explain": "The Sohar is presented as an example of cultural diplomacy aimed at continuous dialogue with the peoples of the world.",
+  "source": "Theme 1 – Role of cultural diversity",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-034",
+  "theme": "1",
+  "topic": "Constants and variables",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "How does Oman balance authenticity and modernity in its identity?",
+  "options": [
+   "It keeps its traditions and values while adapting to change",
+   "It abandons its heritage in order to become fully modern",
+   "It treats modernity and authenticity as unable to coexist",
+   "It keeps heritage only as an attraction for foreign tourists"
+  ],
+  "answer": 0,
+  "explain": "Omani identity blends constants (traditions, language, customs) with variables (adapting to change), and embraces modernity without compromising its values.",
+  "source": "Theme 1 – Constants and variables, authenticity and modernity",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-035",
+  "theme": "1",
+  "topic": "Social change",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which statement best summarises modern Omani identity?",
+  "options": [
+   "It is based only on economic growth and wealth creation",
+   "It is separate from Oman's history and cultural heritage",
+   "It rejects modern technology in order to protect tradition",
+   "It respects tradition while embracing global innovation"
+  ],
+  "answer": 3,
+  "explain": "Modern Omani identity respects traditional dress, language and customs while embracing global ideas, technology and innovation.",
+  "source": "Theme 1 – Social change and Omani culture",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-036",
+  "theme": "1",
+  "topic": "Environmental diversity",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Why does Oman's environment matter to its national identity?",
+  "options": [
+   "Omani identity was shaped only by imported cultures",
+   "Varied landscapes built a deep bond with the environment",
+   "Environmental diversity weakened Omani social values",
+   "Natural landscapes had little or no effect on Omani society"
+  ],
+  "answer": 1,
+  "explain": "Deserts, mountains, coasts and plains shaped cultural identity and fostered a deep connection with the environment.",
+  "source": "Theme 1 – Role of environmental diversity",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-037",
+  "theme": "1",
+  "topic": "Demographics",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "According to the chapter, what is the split of Oman's population between Omanis and expatriates?",
+  "options": [
+   "About 30% Omani and 70% expatriate",
+   "About 50% Omani and 50% expatriate",
+   "About 60% Omani and 40% expatriate",
+   "About 80% Omani and 20% expatriate"
+  ],
+  "answer": 2,
+  "explain": "The course gives approximately 60% Omani nationals and 40% expatriates.",
+  "source": "Theme 1 – Demographic indicators",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-038",
+  "theme": "1",
+  "topic": "Family and social institutions",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Why does the family remain central to Omani society?",
+  "options": [
+   "It matters only in large urban areas such as Muscat",
+   "Formal institutions have fully replaced its social role",
+   "It no longer influences Omani customs and traditions",
+   "It safeguards values, heritage and national identity"
+  ],
+  "answer": 3,
+  "explain": "The family is the bedrock of Omani society and safeguards social values, cultural heritage and national identity.",
+  "source": "Theme 1 – Family and social institutions",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-039",
+  "theme": "1",
+  "topic": "Demographics",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which concern should accompany urban growth in Oman?",
+  "options": [
+   "It puts pressure on water, land and other resources",
+   "It has no connection to the environment or identity",
+   "It removes the need for sustainable urban planning",
+   "It affects only the tourism and hospitality sector"
+  ],
+  "answer": 0,
+  "explain": "Urban growth puts pressure on natural resources such as water and land, so sustainable urban planning is needed.",
+  "source": "Theme 1 – Demographic indicators",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-040",
+  "theme": "1",
+  "topic": "Concept of identity",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "What does national identity mean beyond holding a passport?",
+  "options": [
+   "A status that changes each year with population size",
+   "A feeling of belonging and unity with the homeland",
+   "Speaking Arabic and nothing more",
+   "Legal nationality and nothing more"
+  ],
+  "answer": 1,
+  "explain": "National identity is the feeling of belonging to a nation or state and the sense of unity and affiliation with a homeland.",
+  "source": "Theme 1 – The concept of identity",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-041",
+  "theme": "1",
+  "topic": "Cultural diplomacy",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Why are the Sultan Qaboos Scientific Chairs important?",
+  "options": [
+   "They were set up to replace Oman's schools and universities",
+   "They were created mainly to provide local jobs and entertainment",
+   "They train foreign students only in traditional maritime navigation",
+   "They develop knowledge and encourage dialogue between civilisations"
+  ],
+  "answer": 3,
+  "explain": "The chairs aim to develop human knowledge and encourage dialogue between peoples and civilisations, promoting peace and cooperation.",
+  "source": "Theme 1 – Role of cultural diversity",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t1-042",
+  "theme": "1",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "On what date did Sultan Qaboos bin Said, founder of Oman's modern renaissance, pass away?",
+  "options": [
+   "10 January 2020",
+   "11 January 2020",
+   "10 January 2021",
+   "23 July 2019"
+  ],
+  "answer": 0,
+  "explain": "The course says Sultan Qaboos passed away on January 10, 2020. Sultan Haitham took power the next day, 11 January 2020.",
+  "source": "Theme 1 – Introduction",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t1-043",
+  "theme": "1",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which of the following is NOT an aim of studying 'Oman: State and People', according to the Theme 1 introduction?",
+  "options": [
+   "To explore Oman's development path since 1970 and under Sultan Haitham",
+   "To explain Oman's national identity and the elements that make it up",
+   "To compare Oman's oil output with that of other Gulf states",
+   "To shed light on Oman's comprehensive renaissance and its achievements"
+  ],
+  "answer": 2,
+  "explain": "The introduction lists the renaissance and its achievements, national identity and its elements, and the development path since 1970. Oil comparisons are not mentioned.",
+  "source": "Theme 1 – Introduction",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t1-044",
+  "theme": "1",
+  "topic": "Environmental diversity",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Oman's cultural identity has been influenced by its natural landscape.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "Deserts, mountains, coastal zones and fertile plains have significantly shaped Oman's cultural identity.",
+  "source": "Theme 1 – Role of environmental diversity",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t1-045",
+  "theme": "1",
+  "topic": "Environment & heritage",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "The close relationship between Omanis and their environment is found only in mountainous areas.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "The course points especially to rural and coastal communities (falaj, date palms, fishing), not only mountain areas.",
+  "source": "Theme 1 – Demographic indicators and relationship with the environment",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t1-046",
+  "theme": "1",
+  "topic": "Demographics",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Expatriates make up the majority of Oman's population.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "About 60% are Omani nationals and 40% are expatriates.",
+  "source": "Theme 1 – Demographic indicators",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t1-047",
+  "theme": "1",
+  "topic": "Demographics",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Urban growth in Oman has no impact on natural resources.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "Urban growth puts pressure on water and land, so sustainable planning is needed.",
+  "source": "Theme 1 – Demographic indicators",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t1-048",
+  "theme": "1",
+  "topic": "Family and social institutions",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Social institutions such as the Majlis strengthen family bonds in Oman.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "Family bonds are 'further strengthened by social institution such as Majlis'.",
+  "source": "Theme 1 – Family and social institutions",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t1-049",
+  "theme": "1",
+  "topic": "Cultural diversity",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Cultural diversity has played a vital role in shaping Omani identity.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course says cultural diversity has played a pivotal role in shaping Oman's distinctive identity.",
+  "source": "Theme 1 – Role of cultural diversity",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t1-050",
+  "theme": "1",
+  "topic": "Social change",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "The transition from traditional life to modernity has spoiled Omani culture.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "The course says the transition has not diminished Omani culture. It has enriched it.",
+  "source": "Theme 1 – Social change and Omani culture",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t2-001",
+  "theme": "2",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to Theme 2, what remains the overarching umbrella that unites all of a person's affiliations?",
+  "options": [
+   "Sectarian affiliation",
+   "Family ties",
+   "Tribal loyalty",
+   "National loyalty"
+  ],
+  "answer": 3,
+  "explain": "Although many affiliations exist in the human psyche, national loyalty remains the overarching umbrella that unites them all.",
+  "source": "Theme 2 – Introduction",
+  "origin": "course"
+ },
+ {
+  "id": "t2-002",
+  "theme": "2",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "For citizenship to be sound and effective, it must be framed within a legal structure. In political terminology, what is that structure called?",
+  "options": [
+   "The constitution",
+   "The Shura Council",
+   "The Majlis",
+   "The tribal code"
+  ],
+  "answer": 0,
+  "explain": "The course says citizenship must sit within a legal structure, which political terminology calls the constitution. In Oman this is the Basic Law of the State.",
+  "source": "Theme 2 – Introduction",
+  "origin": "course"
+ },
+ {
+  "id": "t2-003",
+  "theme": "2",
+  "topic": "Concept of belonging",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "How does the course define belonging?",
+  "options": [
+   "The quality of being faithful in your support of someone or something, such as a cause",
+   "An intellectual and emotional attachment to an idea or group, formed by a willful act",
+   "The legal right to belong to a particular country and to hold its passport",
+   "A legal status granted by the state to all those who are full members of a community"
+  ],
+  "answer": 1,
+  "explain": "Belonging is an intellectual and emotional attachment to an idea or group, formed by a willful act that leads a person to adopt behaviours reflecting it. The other options define loyalty and citizenship.",
+  "source": "Theme 2 – Concept of belonging and its types",
+  "origin": "course"
+ },
+ {
+  "id": "t2-004",
+  "theme": "2",
+  "topic": "Concept of belonging",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which of the following is NOT one of the four types of belonging described in the course?",
+  "options": [
+   "Religious belonging",
+   "Tribal belonging",
+   "Economic belonging",
+   "Ethnical/sectarian belonging"
+  ],
+  "answer": 2,
+  "explain": "The four types are religious, national, tribal and ethnical/sectarian belonging.",
+  "source": "Theme 2 – Types of belonging",
+  "origin": "course"
+ },
+ {
+  "id": "t2-005",
+  "theme": "2",
+  "topic": "Religious belonging",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "According to the Basic Law of the State, as described in the course, what is the basis of legislation in Oman?",
+  "options": [
+   "International human rights law",
+   "British common law",
+   "Islamic law (Sharia)",
+   "Tribal custom"
+  ],
+  "answer": 2,
+  "explain": "Islam is the State religion and Islamic law is the basis of legislation.",
+  "source": "Theme 2 – Types of belonging – Religious",
+  "origin": "course"
+ },
+ {
+  "id": "t2-006",
+  "theme": "2",
+  "topic": "Religious belonging",
+  "type": "tf",
+  "difficulty": "medium",
+  "q": "The Basic Law of the State guarantees freedom of belief, prohibits discrimination on the basis of religion and allows freedom to practise religious rites.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course states this under religious belonging, as protection for the unity of society.",
+  "source": "Theme 2 – Types of belonging – Religious",
+  "origin": "course"
+ },
+ {
+  "id": "t2-007",
+  "theme": "2",
+  "topic": "Religious belonging",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In which year was the Judicial Authority Law issued?",
+  "options": [
+   "1996",
+   "2022",
+   "2011",
+   "1999"
+  ],
+  "answer": 3,
+  "explain": "The Judicial Authority Law was issued in 1999. The Law on the Administration and Organization of Judicial Affairs followed in 2022.",
+  "source": "Theme 2 – Types of belonging – Religious",
+  "origin": "course"
+ },
+ {
+  "id": "t2-008",
+  "theme": "2",
+  "topic": "National belonging",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which description matches national belonging as defined in the course?",
+  "options": [
+   "Connection to the homeland, loyalty to state and leadership, and love for the people",
+   "An attachment limited to the members of one's tribe and to the authority of its leaders",
+   "A feeling that depends on a person's wealth, social status and family name",
+   "A belief in the superiority of one race over others because of skin colour"
+  ],
+  "answer": 0,
+  "explain": "National belonging is a connection to a homeland, loyalty to a state and leadership, love for the people and belonging to society.",
+  "source": "Theme 2 – Types of belonging – National",
+  "origin": "course"
+ },
+ {
+  "id": "t2-009",
+  "theme": "2",
+  "topic": "Tribal belonging",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, why does tribal belonging fail to serve everyone's interests, even those of the tribe's own followers?",
+  "options": [
+   "It is guaranteed by the Basic Law and therefore cannot be changed or questioned",
+   "It rests on one class's authority, is not subject to law and is limited to the tribe",
+   "It rests on a belief in racial superiority because of the skin colour of its members",
+   "It depends entirely on foreign support and on the interests of colonial powers"
+  ],
+  "answer": 1,
+  "explain": "Tribal belonging is based on the authority of a specific class, is not subject to law, is limited to the tribe's people, leads to withdrawal and does not express people's hopes.",
+  "source": "Theme 2 – Types of belonging – Tribal",
+  "origin": "course"
+ },
+ {
+  "id": "t2-010",
+  "theme": "2",
+  "topic": "Ethnic/sectarian belonging",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which disadvantages does the course link to ethnical/sectarian belonging?",
+  "options": [
+   "Isolation, poverty and illiteracy",
+   "Urbanisation, pollution and water shortage",
+   "High taxes, inflation and unemployment",
+   "Slavery, colonialism and racial discrimination"
+  ],
+  "answer": 3,
+  "explain": "This type of belonging rests on ideas of one race's superiority, and its disadvantages include slavery, colonialism and racial discrimination.",
+  "source": "Theme 2 – Types of belonging – Ethnical/Sectarian",
+  "origin": "course"
+ },
+ {
+  "id": "t2-011",
+  "theme": "2",
+  "topic": "National belonging in Oman",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "In the modern Omani state, national belonging has no tribal, regional or sectarian limits, and citizens regard it as a sacred duty and a natural right.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The second aspect says national belonging covers the whole nation, north to south and east to west, as a sacred duty and natural right.",
+  "source": "Theme 2 – National belonging in the contemporary Omani state",
+  "origin": "course"
+ },
+ {
+  "id": "t2-012",
+  "theme": "2",
+  "topic": "National belonging in Oman",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which aspect of national belonging describes Oman reconnecting with the outside world after severe seclusion?",
+  "options": [
+   "Oman's liberation from prolonged isolation",
+   "The emphasis on Omani values from its intellectual heritage",
+   "The removal of tribal, regional and sectarian limits",
+   "The establishment of a state on a national foundation"
+  ],
+  "answer": 0,
+  "explain": "The third aspect, liberation from prolonged isolation, let Oman reconnect with the world at political, economic, cultural and social levels.",
+  "source": "Theme 2 – National belonging in the contemporary Omani state",
+  "origin": "course"
+ },
+ {
+  "id": "t2-013",
+  "theme": "2",
+  "topic": "National belonging in Oman",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "The fourth aspect of national belonging emphasises Omani values that stem from:",
+  "options": [
+   "The customs of each tribe, applied separately in every region",
+   "Oman's intellectual heritage, social environment and cultural identity",
+   "Foreign constitutions and the international treaties Oman has signed",
+   "The oil economy, foreign investment and international trade"
+  ],
+  "answer": 1,
+  "explain": "Omani citizenship was built on values from its intellectual heritage, social environment and cultural identity, so citizens interact on the basis of equality and cooperation.",
+  "source": "Theme 2 – National belonging in the contemporary Omani state",
+  "origin": "course"
+ },
+ {
+  "id": "t2-014",
+  "theme": "2",
+  "topic": "National belonging in Oman",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "According to the course, belonging is static and does not change over time.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "The course says belonging is not static. It evolves, and Omani belonging has been renewed in line with changes at home and abroad.",
+  "source": "Theme 2 – National belonging in the contemporary Omani state",
+  "origin": "course"
+ },
+ {
+  "id": "t2-015",
+  "theme": "2",
+  "topic": "National belonging in Oman",
+  "type": "tf",
+  "difficulty": "medium",
+  "q": "Researchers note that any state built on racial or sectarian belonging is destined to face fragmentation and collapse.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course says such a state faces fragmentation and collapse, while one built on inclusive citizenship stands firm.",
+  "source": "Theme 2 – National belonging in the contemporary Omani state",
+  "origin": "course"
+ },
+ {
+  "id": "t2-016",
+  "theme": "2",
+  "topic": "Concept of loyalty",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which is the dictionary definition of loyalty given in the course?",
+  "options": [
+   "Feeling comfortable and happy within a particular group",
+   "A status bestowed on the full members of a community",
+   "Being faithful in your support of somebody or something",
+   "The legal right to belong to a particular country"
+  ],
+  "answer": 2,
+  "explain": "Loyalty (noun) is 'the quality of being faithful in your support of sb/sth'. The other options define belonging, citizenship and Marshall's citizenship.",
+  "source": "Theme 2 – Concept of loyalty",
+  "origin": "course"
+ },
+ {
+  "id": "t2-017",
+  "theme": "2",
+  "topic": "Concept of loyalty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "How does the course define national loyalty?",
+  "options": [
+   "A superficial feeling that is shown mainly on national holidays",
+   "Obedience to the leaders of one's tribe in all matters, without question",
+   "An inner love for homeland, family and community, with readiness to sacrifice",
+   "A legal contract between the citizen and the government, renewed by law"
+  ],
+  "answer": 2,
+  "explain": "National loyalty is 'an inner expression of love for the homeland, family, and community, tied with readiness to sacrifice for its sake'.",
+  "source": "Theme 2 – Concept of loyalty",
+  "origin": "course"
+ },
+ {
+  "id": "t2-018",
+  "theme": "2",
+  "topic": "Concept of loyalty",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "True loyalty shows in a citizen's commitment to several values. Which of these is NOT among the values the course lists?",
+  "options": [
+   "Competition",
+   "Truth",
+   "Sacrifice",
+   "Solidarity"
+  ],
+  "answer": 0,
+  "explain": "The values listed are truth, justice, sacrifice, solidarity and cooperation.",
+  "source": "Theme 2 – Importance of loyalty to the homeland",
+  "origin": "course"
+ },
+ {
+  "id": "t2-019",
+  "theme": "2",
+  "topic": "Concept of loyalty",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "The course describes loyalty to the homeland as a superficial feeling.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "Loyalty is 'not a superficial feeling'. It is a deep conviction arising from lived experiences, daily struggles and shared sacrifices.",
+  "source": "Theme 2 – Importance of loyalty to the homeland",
+  "origin": "course"
+ },
+ {
+  "id": "t2-020",
+  "theme": "2",
+  "topic": "Loyalty in crises",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which pairing of tropical cyclones and years appears in the course as an example of Omani loyalty and solidarity?",
+  "options": [
+   "Gonu in 2011 and Mekunu in 2020",
+   "Gonu in 2007 and Mekunu in 2018",
+   "Gonu in 2002 and Mekunu in 2012",
+   "Gonu in 2018 and Mekunu in 2007"
+  ],
+  "answer": 1,
+  "explain": "Citizens and institutions stood together during cyclone Gonu (2007) and cyclone Mekunu (2018).",
+  "source": "Theme 2 – Concept of loyalty",
+  "origin": "course"
+ },
+ {
+  "id": "t2-021",
+  "theme": "2",
+  "topic": "Concept of loyalty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, loyalty to the homeland discourages:",
+  "options": [
+   "Justice, fairness and cohesion",
+   "Equality, unity and solidarity",
+   "Service, dedication and development",
+   "Selfishness, division and indifference"
+  ],
+  "answer": 3,
+  "explain": "Loyalty fosters justice, fairness and social cohesion while discouraging selfishness, division and indifference.",
+  "source": "Theme 2 – Concept of loyalty",
+  "origin": "course"
+ },
+ {
+  "id": "t2-022",
+  "theme": "2",
+  "topic": "Concept of citizenship",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Who defined citizenship as 'a status bestowed on those who are full members of a community'?",
+  "options": [
+   "Plekhanov (2005)",
+   "Al-Rawas & Al-Jardani (2016)",
+   "Zayed (2023)",
+   "Marshall (1950)"
+  ],
+  "answer": 3,
+  "explain": "The definition is from Marshall (1950): all who hold the status are equal in its rights and duties.",
+  "source": "Theme 2 – Concept of citizenship",
+  "origin": "course"
+ },
+ {
+  "id": "t2-023",
+  "theme": "2",
+  "topic": "Concept of citizenship",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, citizenship in Islamic thought includes duties such as:",
+  "options": [
+   "Military service abroad as the only real duty",
+   "Paying regular tribute to tribal leaders and elders",
+   "Justice, solidarity and protecting public interest",
+   "Loyalty to one's sect above loyalty to the state"
+  ],
+  "answer": 2,
+  "explain": "In Islamic thought, citizenship includes duties such as justice, solidarity and protecting the public interest.",
+  "source": "Theme 2 – Concept of citizenship",
+  "origin": "course"
+ },
+ {
+  "id": "t2-024",
+  "theme": "2",
+  "topic": "Concept of citizenship",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "Which source does the course cite for how citizenship is emphasised in Oman (loyalty to the Sultan, respect for national laws, social unity and participation in development)?",
+  "options": [
+   "United Nations (1948)",
+   "Al-Rawas & Al-Jardani (2016)",
+   "Al-Khodhouri (1997)",
+   "Marshall (1950)"
+  ],
+  "answer": 1,
+  "explain": "This is credited to Al-Rawas & Al-Jardani (2016).",
+  "source": "Theme 2 – Concept of citizenship",
+  "origin": "course"
+ },
+ {
+  "id": "t2-025",
+  "theme": "2",
+  "topic": "Concept of citizenship",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which of the following is NOT listed in the course as an example of belonging and loyalty from Oman?",
+  "options": [
+   "Foreign investment",
+   "Communal support",
+   "Transition of power",
+   "Tribal affiliations"
+  ],
+  "answer": 0,
+  "explain": "The examples are tribal affiliations, family ties, national identity, transition of power and communal support.",
+  "source": "Theme 2 – Concept of citizenship",
+  "origin": "course"
+ },
+ {
+  "id": "t2-026",
+  "theme": "2",
+  "topic": "Rights and responsibilities",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which of the following is listed in the course as a RIGHT of citizens?",
+  "options": [
+   "Access to public services",
+   "Paying taxes",
+   "Obeying the law",
+   "Defending the nation if required"
+  ],
+  "answer": 0,
+  "explain": "Rights: voting, working and living in the country, access to public services and protection by law. The other options are responsibilities.",
+  "source": "Theme 2 – Rights and responsibilities of citizens",
+  "origin": "course"
+ },
+ {
+  "id": "t2-027",
+  "theme": "2",
+  "topic": "Rights and responsibilities",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "How does voting appear in the course's lists of citizens' rights and responsibilities?",
+  "options": [
+   "It does not appear in either of the lists",
+   "Only as a responsibility, not as a right",
+   "Both as a right and as a civic responsibility",
+   "Only as a right, not as a responsibility"
+  ],
+  "answer": 2,
+  "explain": "'Right to vote' is listed as a right, and 'Participating in civic life (e.g., voting, community service)' as a responsibility.",
+  "source": "Theme 2 – Rights and responsibilities of citizens",
+  "origin": "course"
+ },
+ {
+  "id": "t2-028",
+  "theme": "2",
+  "topic": "Citizenship and national unity",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "How does the course distinguish citizenship from national unity?",
+  "options": [
+   "Citizenship is a shared feeling of belonging; national unity is a legal document",
+   "The two terms mean exactly the same thing and can be used interchangeably",
+   "Citizenship applies only to tribes, while national unity applies to individuals",
+   "Citizenship is a legal and moral bond with the state; unity is a shared sense of belonging"
+  ],
+  "answer": 3,
+  "explain": "Citizenship is the legal and moral relationship between individual and state. National unity is the collective sense of belonging, solidarity and shared identity regardless of religion, region or ethnicity.",
+  "source": "Theme 2 – Citizenship and national unity",
+  "origin": "course"
+ },
+ {
+  "id": "t2-029",
+  "theme": "2",
+  "topic": "Citizenship and national unity",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Theme 2 cites the Basic Statute of the State as Royal Decree No. 101/1996, amended in:",
+  "options": [
+   "2005",
+   "2021",
+   "1999",
+   "2016"
+  ],
+  "answer": 1,
+  "explain": "The course gives 'Royal Decree No. 101/1996, amended 2021'.",
+  "source": "Theme 2 – Citizenship and national unity",
+  "origin": "course",
+  "note": "Theme 4 also mentions earlier amendments in 2011 (Royal Decree 99/2011) and a 2022 change to Article 6. The 2021 date here is the Theme 2 reference."
+ },
+ {
+  "id": "t2-030",
+  "theme": "2",
+  "topic": "Citizenship in Oman",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "According to the course, citizenship in Oman today is not a personal favour and is not based on wealth, colour or tribal status.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course says citizenship is no longer a privilege granted as a personal favour, nor based on wealth, colour or tribal status.",
+  "source": "Theme 2 – Citizenship in the Sultanate of Oman",
+  "origin": "course"
+ },
+ {
+  "id": "t2-031",
+  "theme": "2",
+  "topic": "Citizenship key features",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which of the following is NOT one of the key features of citizenship listed in the course?",
+  "options": [
+   "A privilege reserved for members of influential tribes",
+   "An equal partnership in nation-building and serving society",
+   "A legal and political bond uniting all citizens regardless of affiliation",
+   "A shared relationship with the homeland based on rights and responsibilities"
+  ],
+  "answer": 0,
+  "explain": "The three key features are a legal and political bond, a shared relationship of rights and responsibilities, and an equal partnership in nation-building.",
+  "source": "Theme 2 – Citizenship (key features)",
+  "origin": "course"
+ },
+ {
+  "id": "t2-032",
+  "theme": "2",
+  "topic": "Human rights",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, human rights are:",
+  "options": [
+   "Privileges granted only to the citizens of the state in which they were born and live",
+   "Rights applied differently to each person according to their religion",
+   "Universal, inalienable rights for all, whatever their nationality, race or religion",
+   "Rights defined by each tribe's customs and changed from tribe to tribe"
+  ],
+  "answer": 2,
+  "explain": "Human rights are universal and inalienable, based on the inherent dignity of every human being and protected under international law such as the UDHR.",
+  "source": "Theme 2 – Citizenship and human rights",
+  "origin": "course"
+ },
+ {
+  "id": "t2-033",
+  "theme": "2",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In the 1971 quotation that opens Theme 2, what did Sultan Qaboos say the people's loyalty and sincerity compelled him to do?",
+  "options": [
+   "Hand power immediately to an elected council chosen by the people",
+   "Close Oman's borders in order to protect its traditional way of life",
+   "Rely on foreign advisers to run the state's ministries and finances",
+   "Keep working to raise living standards and bring reform"
+  ],
+  "answer": 3,
+  "explain": "He said their loyalty calls for gratitude and compels him to continue his efforts to raise the standard of living and provide all means of reform.",
+  "source": "Theme 2 – Opening quotation (Sultan Qaboos, 1971)",
+  "origin": "course"
+ },
+ {
+  "id": "t2-034",
+  "theme": "2",
+  "topic": "Citizenship",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which campaign slogan best reflects the Theme 2 chapter on citizenship?",
+  "options": [
+   "My tribe comes first, and the nation comes second",
+   "Equal rights, shared duties: one citizenship for all",
+   "Rights without duties are what build a strong state",
+   "Citizenship belongs only to those with wealth or influence"
+  ],
+  "answer": 1,
+  "explain": "Citizenship rests on equality, justice and shared responsibility, a bond that unites all citizens regardless of affiliation.",
+  "source": "Theme 2 – Citizenship in the Sultanate of Oman",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t2-035",
+  "theme": "2",
+  "topic": "Citizenship",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Would treating citizens differently by region, wealth or tribe strengthen national unity?",
+  "options": [
+   "Yes, because it reflects the Basic Statute exactly",
+   "Yes, because unequal treatment creates social order",
+   "No, it weakens citizenship, which rests on equality",
+   "Only when it is applied to higher-education admissions"
+  ],
+  "answer": 2,
+  "explain": "Modern Omani citizenship emphasises equality, justice and shared responsibility, not wealth, colour or tribal status.",
+  "source": "Theme 2 – Citizenship in the Sultanate of Oman",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t2-036",
+  "theme": "2",
+  "topic": "National belonging in Oman",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "How was national belonging strengthened after the Blessed Renaissance?",
+  "options": [
+   "By keeping the regions isolated from one another to avoid disputes",
+   "By letting each province act as a separate state with its own rules",
+   "By cutting Oman's communication with the outside world and its neighbours",
+   "Institutions served all regions equally under one flag, anthem and army"
+  ],
+  "answer": 3,
+  "explain": "Education, health, security and military institutions served all regions equally, and Omanis united under one flag, anthem and army.",
+  "source": "Theme 2 – National belonging in the contemporary Omani state",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t2-037",
+  "theme": "2",
+  "topic": "Belonging and loyalty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "How do belonging and loyalty relate to citizenship?",
+  "options": [
+   "Citizenship completely replaces both belonging and loyalty",
+   "Stronger belonging raises loyalty; together they support citizenship",
+   "They are separate ideas that have no effect on each other at all",
+   "Loyalty matters only in the cases where citizenship has failed"
+  ],
+  "answer": 1,
+  "explain": "'The stronger the sense of belonging, the higher the sense of loyalty'. Together they are foundational to social cohesion and stability.",
+  "source": "Theme 2 – Concept of loyalty / citizenship",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t2-038",
+  "theme": "2",
+  "topic": "National belonging in Oman",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which 'Unity Week' activity best reflects national belonging as described in the course?",
+  "options": [
+   "A programme celebrating all regions under one flag and anthem",
+   "A competition in which only one region is allowed to take part",
+   "A rule allowing only one province's dialect to be used on campus",
+   "A campaign that promotes one sect above all the other sects"
+  ],
+  "answer": 0,
+  "explain": "National belonging has no tribal, regional or sectarian limits and unites all Omanis under one flag and anthem.",
+  "source": "Theme 2 – National belonging in the contemporary Omani state",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t2-039",
+  "theme": "2",
+  "topic": "Tribal belonging",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What is the best counter-argument to the claim that tribal belonging should be the basis of the modern state?",
+  "options": [
+   "Tribal belonging is always more democratic than citizenship",
+   "Tribal belonging is exactly the same thing as national unity",
+   "Tribal belonging does not serve the interests of all citizens",
+   "Tribal belonging guarantees equal rights for everyone"
+  ],
+  "answer": 2,
+  "explain": "The course says tribal belonging does not achieve everyone's interests: it is limited to the tribe and not subject to law.",
+  "source": "Theme 2 – Types of belonging – Tribal",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t2-040",
+  "theme": "2",
+  "topic": "Loyalty in crises",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which response to a national crisis best reflects citizenship and loyalty?",
+  "options": [
+   "Showing solidarity, sacrifice and active help during hardship",
+   "Waiting passively, since loyalty means only obedience",
+   "Staying uninvolved, since crises are unrelated to citizenship",
+   "Helping only members of one's own tribe"
+  ],
+  "answer": 0,
+  "explain": "During cyclones Gonu (2007) and Mekunu (2018), Omanis showed loyalty through solidarity, assistance and relief efforts. Loyalty is active, not passive.",
+  "source": "Theme 2 – Concept of loyalty",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t2-041",
+  "theme": "2",
+  "topic": "Loyalty in crises",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Volunteers help families affected by floods. Which concept does this best show?",
+  "options": [
+   "Sectarian belonging limited to one group",
+   "Loyalty shown through solidarity and service",
+   "Legal citizenship only, with no emotional element",
+   "Ethnic belonging based on race and descent"
+  ],
+  "answer": 1,
+  "explain": "Genuine loyalty drives people to help one another in hardship, as Omanis did in past cyclones.",
+  "source": "Theme 2 – Concept of loyalty",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t2-042",
+  "theme": "2",
+  "topic": "Citizenship in Oman",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which statement best describes how citizenship has developed in contemporary Oman?",
+  "options": [
+   "It has not changed since before 1970 and is still granted as a personal favour by leaders",
+   "It became limited to citizens who live in Muscat and the main urban centres of the country",
+   "It moved from a legal concept to one based mainly on tribal status, wealth and family name",
+   "It moved from narrow tribal or regional ties to equality, justice and shared responsibility"
+  ],
+  "answer": 3,
+  "explain": "Omani society moved beyond narrow tribal, sectarian or regional definitions to a modern, comprehensive concept, reinforced after the 1996 Basic Statute.",
+  "source": "Theme 2 – Citizenship in the Sultanate of Oman",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t2-043",
+  "theme": "2",
+  "topic": "Rights and responsibilities",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which of the following is a RESPONSIBILITY of citizens, according to the course?",
+  "options": [
+   "The right to work and live in the country",
+   "Paying taxes",
+   "Access to public services",
+   "Protection by law"
+  ],
+  "answer": 1,
+  "explain": "Responsibilities: obeying the law, paying taxes, defending the nation if required, and participating in civic life.",
+  "source": "Theme 2 – Rights and responsibilities of citizens",
+  "origin": "comprehension",
+  "note": "The original comprehension question offered 'voting' and 'submit to law (obeying the law)', and both can be argued as correct. It has been reworded so that only one answer fits."
+ },
+ {
+  "id": "t2-044",
+  "theme": "2",
+  "topic": "Human rights",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When was the Universal Declaration of Human Rights (UDHR) adopted?",
+  "options": [
+   "1986",
+   "1984",
+   "1950",
+   "1948"
+  ],
+  "answer": 3,
+  "explain": "The UDHR was adopted by the United Nations in 1948.",
+  "source": "Theme 2 – Citizenship and human rights",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t2-045",
+  "theme": "2",
+  "topic": "Concept of belonging",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Where may a person's sense of belonging come from, according to the course?",
+  "options": [
+   "Only from the tribe into which a person happens to be born",
+   "Only from the legal documents that the state issues to citizens",
+   "Home and social context, outside factors, or the person's own effort",
+   "Only from religious institutions such as mosques and schools"
+  ],
+  "answer": 2,
+  "explain": "Belonging may arise from home environment and social context, may be influenced by external factors, or a person may cultivate it independently.",
+  "source": "Theme 2 – Concept of belonging and its types",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t2-046",
+  "theme": "2",
+  "topic": "Citizenship in Oman",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When was the Basic Statute of the State first issued?",
+  "options": [
+   "1996",
+   "1970",
+   "1999",
+   "2011"
+  ],
+  "answer": 0,
+  "explain": "The Basic Statute (Basic Law) of the State was first issued in 1996 by Royal Decree No. 101/1996.",
+  "source": "Theme 2 – Introduction / Citizenship and national unity",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t2-047",
+  "theme": "2",
+  "topic": "Religious belonging",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When was the Law on the Administration and Organization of Judicial Affairs issued?",
+  "options": [
+   "2022",
+   "1999",
+   "2011",
+   "1996"
+  ],
+  "answer": 0,
+  "explain": "It was issued in 2022 under Royal Decree No. 35/2022.",
+  "source": "Theme 2 – Types of belonging – Religious",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t2-048",
+  "theme": "2",
+  "topic": "Concept of loyalty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Why is loyalty to the homeland important, according to the course?",
+  "options": [
+   "It allows each region to pursue its own separate goals and interests",
+   "It matters only in wartime and has no role in national development",
+   "It replaces the need for laws, institutions and a constitution",
+   "It is vital for the homeland's stability and survival"
+  ],
+  "answer": 3,
+  "explain": "Loyalty is 'a fundamental condition for its stability and survival', the bond that unites the people around shared national goals.",
+  "source": "Theme 2 – Importance of loyalty to the homeland",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3a-001",
+  "theme": "3A",
+  "topic": "Opening quotation",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In the 1971 quotation that opens Theme 3A, how did Sultan Qaboos say Oman's past glory would be restored?",
+  "options": [
+   "Through foreign military alliances",
+   "Through a return to isolation",
+   "Through cooperation and unity",
+   "Through oil revenues alone"
+  ],
+  "answer": 2,
+  "explain": "'Through our cooperation and unity, we will restore our past glory. The dawn of a new day will rise for Oman.'",
+  "source": "Theme 3A – Opening quotation (Sultan Qaboos, 1971)",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-002",
+  "theme": "3A",
+  "topic": "Oman and Islam",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Jaifar and 'Abd, the rulers of Oman who received the Prophet's envoys, were the sons of:",
+  "options": [
+   "Said bin Sultan",
+   "Al-Julanda",
+   "Sultan bin Saif",
+   "Ahmad bin Said"
+  ],
+  "answer": 1,
+  "explain": "The Prophet sent his envoys to the rulers of Oman, Jaifar and 'Abd, sons of Al-Julanda.",
+  "source": "Theme 3A – First: Oman and Islam",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-003",
+  "theme": "3A",
+  "topic": "Oman and Islam",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "The Prophet's praise of the people of Oman ('most pious, tender-hearted, and gentle') is cited from a narration by:",
+  "options": [
+   "Imam Muslim (Hadith no. 2544)",
+   "Imam Abu Dawud (Hadith no. 1650)",
+   "Imam Malik (Hadith no. 751)",
+   "Imam Al-Bukhari (Hadith no. 630)"
+  ],
+  "answer": 0,
+  "explain": "The course cites the narration of Imam Muslim, Hadith no. 2544.",
+  "source": "Theme 3A – First: Oman and Islam",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-004",
+  "theme": "3A",
+  "topic": "Oman and Islam",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "Which Omani sociologist is quoted as saying 'Omani society was able to maintain its independence through strong social bonds inspired by Islamic teachings'?",
+  "options": [
+   "Al-Salimi (2010)",
+   "Al-Lawati (2013)",
+   "Al-Khodhouri (1997)",
+   "Hamoudi (1993)"
+  ],
+  "answer": 2,
+  "explain": "The quotation is from the Omani sociologist Al-Khodhouri (1997).",
+  "source": "Theme 3A – First: Oman and Islam",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-005",
+  "theme": "3A",
+  "topic": "Foreign invasions",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Where does the course place Oman geographically?",
+  "options": [
+   "In the centre of the Arabian Peninsula, far from any sea",
+   "On the east coast of Africa, directly facing Zanzibar",
+   "On the north-western shore of the Red Sea, facing Egypt and Sudan",
+   "At the entrance to the Arabian Gulf, in the peninsula's south-east"
+  ],
+  "answer": 3,
+  "explain": "Oman lies at the entrance to the Arabian Gulf, on the south-eastern corner of the Arabian Peninsula.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-006",
+  "theme": "3A",
+  "topic": "Foreign invasions",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which foreign powers does the course name as invading Oman because of its strategic maritime location?",
+  "options": [
+   "The Romans and later the Ottomans",
+   "The Portuguese and later the British",
+   "The Mongols and later the Persians",
+   "The Dutch and later the French"
+  ],
+  "answer": 1,
+  "explain": "Oman faced invasions 'by the Portuguese and later the British'.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "course",
+  "note": "The course puts this in 'the 9th century'. That is wrong: the Portuguese arrived in the early 16th century (1507)."
+ },
+ {
+  "id": "t3a-007",
+  "theme": "3A",
+  "topic": "Nabhani dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Besides internal tribal divisions, the Nabhani authority was weakened by conflict with:",
+  "options": [
+   "The British East India Company",
+   "The Al Busaidi dynasty",
+   "The Portuguese Empire",
+   "The emerging Hormuz Kingdom"
+  ],
+  "answer": 3,
+  "explain": "Internal divisions and conflicts with the emerging Hormuz Kingdom weakened the Nabhanis, leading to the rise of the Ya'aruba Imamate.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "course",
+  "note": "The course calls the Nabhani dynasty one of the 'foreign powers that ruled Oman'. In fact the Nabhanis were an Omani (Arab) dynasty."
+ },
+ {
+  "id": "t3a-008",
+  "theme": "3A",
+  "topic": "Ya'aruba dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Why is the expulsion of the Portuguese from Oman in 1650 historically significant, according to the course?",
+  "options": [
+   "It ended the Al Busaidi dynasty's rule over Muscat and the interior",
+   "It made Zanzibar the second capital of the Omani Empire for the first time",
+   "It was the first liberation of an Arab land from European colonialism",
+   "It led directly to the signing of the Treaty of Seeb with the British"
+  ],
+  "answer": 2,
+  "explain": "The course calls it 'the first liberation of an Arab land from European colonialism'.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-009",
+  "theme": "3A",
+  "topic": "Ya'aruba dynasty",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "In which year did the Portuguese occupation of Oman begin?",
+  "options": [
+   "1507",
+   "1744",
+   "1624",
+   "1650"
+  ],
+  "answer": 0,
+  "explain": "The Portuguese occupied Oman for nearly 143 years, from 1507 until 1650.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-010",
+  "theme": "3A",
+  "topic": "Ya'aruba dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Under which Imam was Oman's naval power consolidated, with influence reaching the Swahili Coast and Zanzibar?",
+  "options": [
+   "Sayyid Thuwaini bin Said",
+   "Imam Saif bin Sultan",
+   "Imam Sultan bin Saif Al-Ya'arubi",
+   "Imam Ahmad bin Said Al Busaidi"
+  ],
+  "answer": 1,
+  "explain": "Naval power was consolidated under Imam Saif bin Sultan (1642–1711, as the course dates it). His rule was a time of prosperity and expansion.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "course",
+  "note": "Historically, Imam Saif bin Sultan reigned from about 1692 to 1711. The course's '1642–1711' is closer to his lifespan."
+ },
+ {
+  "id": "t3a-011",
+  "theme": "3A",
+  "topic": "Ya'aruba dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Gwadar, one of the ports Oman's fleet reached, is located in present-day:",
+  "options": [
+   "Pakistan",
+   "India",
+   "Somalia",
+   "Iran"
+  ],
+  "answer": 0,
+  "explain": "The fleet reached Gwadar (in present-day Pakistan) and the Comoros Islands (Al-Maashari, 2021).",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-012",
+  "theme": "3A",
+  "topic": "Ya'aruba dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Against which powers did the Ya'aruba secure Oman's maritime influence in the 18th century?",
+  "options": [
+   "The British and the French",
+   "The Ottomans and the Dutch",
+   "The Hormuz Kingdom and the Nabhanis",
+   "The Portuguese and the Persians"
+  ],
+  "answer": 3,
+  "explain": "The Ya'aruba secured Oman's maritime influence against the Portuguese and the Persians (Sharqi, 1992).",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-013",
+  "theme": "3A",
+  "topic": "Al Busaidi dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Imam Ahmad bin Said Al Busaidi unified Oman after defeating threats, most notably from:",
+  "options": [
+   "The Portuguese",
+   "The British",
+   "The Persians",
+   "The Hormuz Kingdom"
+  ],
+  "answer": 2,
+  "explain": "He unified Oman after defeating external and internal threats, 'most notably the Persians' (Al-Dhibi, 1992).",
+  "source": "Theme 3A – Third: Rise of the Al Busaidi dynasty",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-014",
+  "theme": "3A",
+  "topic": "Al Busaidi dynasty",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which ruler made Zanzibar the second capital of the Omani Empire?",
+  "options": [
+   "Imam Saif bin Sultan",
+   "Sayyid Said bin Sultan",
+   "Imam Ahmad bin Said",
+   "Sayyid Majid bin Said"
+  ],
+  "answer": 1,
+  "explain": "Sayyid Said bin Sultan expanded Omani influence into East Africa and made Zanzibar the second capital.",
+  "source": "Theme 3A – Third: Rise of the Al Busaidi dynasty",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-015",
+  "theme": "3A",
+  "topic": "Al Busaidi dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Sayyid Said bin Sultan's rule, the peak of Omani maritime power, lasted from:",
+  "options": [
+   "1806 to 1856",
+   "1642 to 1711",
+   "1744 to 1783",
+   "1856 to 1920"
+  ],
+  "answer": 0,
+  "explain": "His rule (1806–1856) marked the zenith of Omani maritime power.",
+  "source": "Theme 3A – Third: Rise of the Al Busaidi dynasty",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-016",
+  "theme": "3A",
+  "topic": "Al Busaidi dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "After Sayyid Said's death, how was the empire divided?",
+  "options": [
+   "Majid ruled Muscat and Oman; Thuwaini ruled Zanzibar",
+   "Thuwaini ruled Muscat and Oman; Majid ruled Zanzibar",
+   "Thuwaini ruled Zanzibar; Turki ruled Muscat",
+   "Said bin Taimur ruled Muscat; Majid ruled Gwadar"
+  ],
+  "answer": 1,
+  "explain": "The empire was split between his two sons: Thuwaini (Muscat and Oman) and Majid (Zanzibar).",
+  "source": "Theme 3A – Third: Rise of the Al Busaidi dynasty",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-017",
+  "theme": "3A",
+  "topic": "Al Busaidi dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "After the empire was divided, which foreign power increasingly interfered, according to the course?",
+  "options": [
+   "Persia",
+   "The Ottoman Empire",
+   "Britain",
+   "Portugal"
+  ],
+  "answer": 2,
+  "explain": "The division weakened the empire and led to growing foreign interference, particularly by Britain (Al-Dhibi, 1994).",
+  "source": "Theme 3A – Third: Rise of the Al Busaidi dynasty",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-018",
+  "theme": "3A",
+  "topic": "Al Busaidi dynasty",
+  "type": "tf",
+  "difficulty": "medium",
+  "q": "Despite these challenges, Oman kept diplomatic relations with the United States and European powers such as France and Britain through trade and friendship treaties.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course says Oman signed several trade and friendship treaties with the United States, France and Britain.",
+  "source": "Theme 3A – Third: Rise of the Al Busaidi dynasty",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-019",
+  "theme": "3A",
+  "topic": "Treaty of Seeb",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What was the aim of the Treaty of Seeb, according to the course?",
+  "options": [
+   "To establish the first government schools in Oman",
+   "To divide the empire between Muscat and Zanzibar",
+   "To expel the Portuguese from Muscat and the coastal ports",
+   "To reconcile internal differences and strengthen unity"
+  ],
+  "answer": 3,
+  "explain": "The Treaty of Seeb (25 September 1920) aimed to reconcile internal differences, but interior–coast disputes continued until Sultan Qaboos's reign.",
+  "source": "Theme 3A – Third: Rise of the Al Busaidi dynasty",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-020",
+  "theme": "3A",
+  "topic": "Life before 1970",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to Al-Lawati (2013), what were Muscat and Muttrah like before 1970?",
+  "options": [
+   "Large factories, an airport and tall stone office buildings",
+   "Narrow streets, simple markets and homes of palm fronds and mud",
+   "Wide paved roads, modern hospitals and many busy car dealerships",
+   "Empty settlements abandoned after the Portuguese departure"
+  ],
+  "answer": 1,
+  "explain": "Muscat and Muttrah had narrow streets, simple markets and basic homes of palm fronds and mud. Most people fished, traded or did manual labour.",
+  "source": "Theme 3A – Images of Omani life",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-021",
+  "theme": "3A",
+  "topic": "Life before 1970",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "How did rural and mountain communities obtain water and preserve food before 1970?",
+  "options": [
+   "Imported bottled water; food was canned abroad",
+   "Desalination plants; food was kept in refrigerators",
+   "Rain tanks only; food was not preserved at all",
+   "Wells or aflaj; food was dried and salted"
+  ],
+  "answer": 3,
+  "explain": "Water came from wells or aflaj, and families preserved food by traditional drying and salting.",
+  "source": "Theme 3A – Images of Omani life",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-022",
+  "theme": "3A",
+  "topic": "Life before 1970",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "How was Muscat mainly reached before the Renaissance?",
+  "options": [
+   "Mainly by sea, as steep mountains isolated it",
+   "By railway, from the towns of the interior",
+   "By a modern coastal highway built from Sohar in the 1950s",
+   "By air, through the international airport at Seeb"
+  ],
+  "answer": 0,
+  "explain": "Muscat was isolated by steep mountains and was reached mainly by sea. Small sailing vessels linked it to India, East Africa and the Gulf.",
+  "source": "Theme 3A – Images of Omani life",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-023",
+  "theme": "3A",
+  "topic": "Education before 1970",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "When were the first government schools established in Oman, according to the course?",
+  "options": [
+   "The 1960s and early 1970s",
+   "The 1890s and 1900s",
+   "The 1930s and 1940s",
+   "Only after 1970"
+  ],
+  "answer": 2,
+  "explain": "Formal education began with the first government schools in the 1930s and 1940s. Before that, learning took place in Quranic schools.",
+  "source": "Theme 3A – Education before the Renaissance",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-024",
+  "theme": "3A",
+  "topic": "Education before 1970",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Before formal schooling, how did students learn to read and write?",
+  "options": [
+   "In Quranic schools, memorising the Quran and basic literacy",
+   "In missionary colleges that taught European languages",
+   "In government universities based in Muscat and Muttrah",
+   "Through radio lessons that were broadcast from abroad"
+  ],
+  "answer": 0,
+  "explain": "Education in the early 20th century was very limited and mainly religious, centred on Quranic schools.",
+  "source": "Theme 3A – Education before the Renaissance",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-025",
+  "theme": "3A",
+  "topic": "Health before 1970",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which statement about health care before 1970 is correct, according to the course?",
+  "options": [
+   "The first hospital in the country was Sultan Qaboos University Hospital in Muscat",
+   "Infectious diseases were almost unknown because of the hot and dry desert climate",
+   "Malaria, smallpox and cholera were common; missionaries opened the first hospitals",
+   "Modern government hospitals already existed in every wilayat and village of Oman"
+  ],
+  "answer": 2,
+  "explain": "Infectious diseases were common. The first hospitals, Al-Rahma Hospital and another small facility in Muscat, were set up by missionary groups.",
+  "source": "Theme 3A – Health and medicine",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-026",
+  "theme": "3A",
+  "topic": "Social life before 1970",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which of these describes entertainment in Omani society before 1970?",
+  "options": [
+   "Sports stadiums and theme parks",
+   "Radio dramas and concerts by foreign bands",
+   "Cinemas and television broadcasts",
+   "Traditional storytelling, poetry and folk music"
+  ],
+  "answer": 3,
+  "explain": "Entertainment was simple: traditional storytelling, poetry and folk music. Markets sold local goods such as dates, fish and textiles.",
+  "source": "Theme 3A – Social and economic life",
+  "origin": "course"
+ },
+ {
+  "id": "t3a-027",
+  "theme": "3A",
+  "topic": "Transition",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which is evidence of a better quality of life after 1970?",
+  "options": [
+   "Oman stopped trading with India, East Africa and other nearby regions",
+   "Communication networks were built; education and health care reached all",
+   "Modernisation was limited to the two towns of Muscat and Muttrah only",
+   "Oman returned to a fully rural economy based on farming and fishing"
+  ],
+  "answer": 1,
+  "explain": "After 1970, roads, schools, hospitals and communication networks were built across the nation, and education and health became accessible to all.",
+  "source": "Theme 3A – The transition to the Renaissance era",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-028",
+  "theme": "3A",
+  "topic": "Life before 1970",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When did the first automobile reach Muscat?",
+  "options": [
+   "1956",
+   "1900",
+   "1915",
+   "1928"
+  ],
+  "answer": 3,
+  "explain": "The first automobile reached Muscat in 1928, but it was rarely used for decades because there were no proper roads.",
+  "source": "Theme 3A – Images of Omani life",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-029",
+  "theme": "3A",
+  "topic": "Imamate",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "In which year did Oman establish its independent Imamate state?",
+  "options": [
+   "630 AD",
+   "751 AD",
+   "1650 AD",
+   "1744 AD"
+  ],
+  "answer": 1,
+  "explain": "The course says Oman established an independent Imamate state in 751 AD.",
+  "source": "Theme 3A – First: Oman and Islam",
+  "origin": "past-paper",
+  "note": "The course calls 751 AD the '1st century AH'. In fact 751 AD is about 133–134 AH, which is the 2nd century AH. Learn the year 751 AD."
+ },
+ {
+  "id": "t3a-030",
+  "theme": "3A",
+  "topic": "Imamate",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Why was the Imamate system significant in Omani history?",
+  "options": [
+   "It reflected Shura (consultation) and equality among Muslims",
+   "It weakened social unity by ignoring the role of religion",
+   "It was created mainly to support Portuguese rule in Oman's ports",
+   "It gave leadership only to the sons of hereditary rulers"
+  ],
+  "answer": 0,
+  "explain": "The Imamate was rooted in Shura and social unity, stressed equality among Muslims and chose leaders on merit.",
+  "source": "Theme 3A – First: Oman and Islam",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-031",
+  "theme": "3A",
+  "topic": "Foreign invasions",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Why did Oman face repeated foreign invasions?",
+  "options": [
+   "Oman had no natural resources and no strategic value at all",
+   "Its mountains kept it completely isolated from the sea",
+   "Its strategic location made it a target for foreign powers",
+   "It invited colonial powers to govern its ports and borders"
+  ],
+  "answer": 2,
+  "explain": "Oman's strategic maritime location, overlooking major Indian Ocean and Arabian Sea trade routes, made it a constant target.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-032",
+  "theme": "3A",
+  "topic": "Oman and Islam",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which event shows peaceful religious acceptance in Omani history?",
+  "options": [
+   "Jaifar and 'Abd accepted Islam and the people followed peacefully",
+   "The arrival of the first automobile in Muscat in 1928",
+   "The division of the empire between Thuwaini and Majid after Sayyid Said's death",
+   "The signing of the Treaty of Seeb between the interior and coast in 1920"
+  ],
+  "answer": 0,
+  "explain": "The people accepted the new faith without conflict or resistance, around 630 AD (8 AH).",
+  "source": "Theme 3A – First: Oman and Islam",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-033",
+  "theme": "3A",
+  "topic": "Ya'aruba dynasty",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Who led the resistance that expelled the Portuguese in 1650?",
+  "options": [
+   "Imam Saif bin Sultan",
+   "Imam Ahmad bin Said Al Busaidi",
+   "Sayyid Said bin Sultan",
+   "Imam Sultan bin Saif Al-Ya'arubi"
+  ],
+  "answer": 3,
+  "explain": "The Portuguese were defeated by Imam Sultan bin Saif Al-Ya'arubi, who led the national resistance.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-034",
+  "theme": "3A",
+  "topic": "Transition",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Did the Blessed Renaissance change only roads and buildings?",
+  "options": [
+   "It was mainly a military reform of the army and navy",
+   "No, it brought wider social, institutional and economic change",
+   "Yes, it changed only architecture and public buildings",
+   "It affected only the coastal cities such as Muttrah and Sur"
+  ],
+  "answer": 1,
+  "explain": "Besides infrastructure, the Renaissance diversified the economy, opened education and health to all, and prioritised human development.",
+  "source": "Theme 3A – The transition to the Renaissance era",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-035",
+  "theme": "3A",
+  "topic": "Life before 1970",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which details suit an infographic about daily life before the Renaissance?",
+  "options": [
+   "Metro systems, international airports and mass media",
+   "Universal hospital access and free public universities",
+   "Donkeys or walking for transport; oral messages for news",
+   "Skyscrapers, industrial zones and multi-lane highways"
+  ],
+  "answer": 2,
+  "explain": "People mainly used donkeys or walked, and communication depended on oral messages carried by travellers.",
+  "source": "Theme 3A – Images of Omani life",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-036",
+  "theme": "3A",
+  "topic": "Maritime power",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Why was maritime strength central to Oman's historical power?",
+  "options": [
+   "The navy was used only for fishing along the Omani coast",
+   "Naval power protected trade and spread influence to East Africa",
+   "Oman avoided all foreign relations and overseas trade routes",
+   "Oman rarely depended on the sea for its trade or its security"
+  ],
+  "answer": 1,
+  "explain": "Oman's navy protected its trade and extended its influence to the East African coast, Zanzibar and the Indian subcontinent.",
+  "source": "Theme 3A – Ya'aruba and Al Busaidi naval power",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-037",
+  "theme": "3A",
+  "topic": "Transition",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "What changed in Oman before and after 1970?",
+  "options": [
+   "Before 1970 hospitals were everywhere; afterwards healers replaced them",
+   "Before 1970 communication was digital; after 1970 it was oral",
+   "Before 1970 services were scarce; after 1970 infrastructure expanded",
+   "Before 1970 Oman was industrial; after 1970 it became agricultural"
+  ],
+  "answer": 2,
+  "explain": "Before 1970: limited resources, modest living and restricted development. After 1970: roads, schools, hospitals and networks.",
+  "source": "Theme 3A – Images of Omani life / Transition",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-038",
+  "theme": "3A",
+  "topic": "Life before 1970",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "How should the claim that traditional Omani society was 'merely backward' be judged?",
+  "options": [
+   "Reject it: the society had real values, despite limited services",
+   "Accept it: traditional society had no values worth keeping",
+   "Accept it: only infrastructure matters when judging history",
+   "Accept it: the society had no culture or heritage of its own"
+  ],
+  "answer": 0,
+  "explain": "Pre-1970 society had strong kinship ties, tribal cooperation, solidarity and faith-based values despite material hardship.",
+  "source": "Theme 3A – Social and economic life",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3a-039",
+  "theme": "3A",
+  "topic": "Oman and Islam",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When did the people of Oman embrace Islam?",
+  "options": [
+   "Around 610 AD, before the Hijra",
+   "Around 751 AD",
+   "Around 650 AD (30 AH)",
+   "Around 630 AD (8 AH)"
+  ],
+  "answer": 3,
+  "explain": "The rulers accepted the Prophet's message and the people followed around 630 AD (8 AH), during the Prophet's lifetime.",
+  "source": "Theme 3A – First: Oman and Islam",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3a-040",
+  "theme": "3A",
+  "topic": "Oman and Islam",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "The Omani people were among the first Arab communities to accept Islam willingly and peacefully.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "Scholars such as Al-Salimi (2010) confirm this.",
+  "source": "Theme 3A – First: Oman and Islam",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3a-041",
+  "theme": "3A",
+  "topic": "Imamate",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Oman established an independent Imamate state in 751 AD.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course says that in 751 AD Oman established an independent Imamate state based on Shura.",
+  "source": "Theme 3A – First: Oman and Islam",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3a-042",
+  "theme": "3A",
+  "topic": "Foreign invasions",
+  "type": "tf",
+  "difficulty": "medium",
+  "q": "According to the course, Oman suffered foreign invasions because its strategic maritime location overlooked major trade routes in the Indian Ocean and the Arabian Sea.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "Its geographic importance made Oman a constant target for colonial ambitions.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "comprehension",
+  "note": "The course dates these invasions to 'the 9th century'. The Portuguese actually arrived in the 16th century (1507)."
+ },
+ {
+  "id": "t3a-043",
+  "theme": "3A",
+  "topic": "Nabhani dynasty",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "For about how long did the Nabhani dynasty rule Oman, according to the course?",
+  "options": [
+   "About five centuries",
+   "About two centuries",
+   "About 143 years",
+   "About fifty years"
+  ],
+  "answer": 0,
+  "explain": "The course says Nabhani rule lasted approximately five centuries.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3a-044",
+  "theme": "3A",
+  "topic": "Ya'aruba dynasty",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "For how long did the Portuguese occupy Oman?",
+  "options": [
+   "About 50 years (1600–1650)",
+   "Nearly 143 years (1507–1650)",
+   "Nearly 100 years (1550–1650)",
+   "About five centuries"
+  ],
+  "answer": 1,
+  "explain": "The Portuguese occupied Oman for nearly 143 years, from 1507 to 1650.",
+  "source": "Theme 3A – Second: Confronting foreign invasions",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3a-045",
+  "theme": "3A",
+  "topic": "Al Busaidi dynasty",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Who founded the Al Busaidi dynasty?",
+  "options": [
+   "Sayyid Turki bin Said",
+   "Imam Sultan bin Saif Al-Ya'arubi",
+   "Imam Ahmad bin Said Al Busaidi",
+   "Sayyid Said bin Sultan"
+  ],
+  "answer": 2,
+  "explain": "The Al Busaidi dynasty rose to power under Imam Ahmad bin Said Al Busaidi (Theme 4 gives 1744).",
+  "source": "Theme 3A – Third: Rise of the Al Busaidi dynasty",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3a-046",
+  "theme": "3A",
+  "topic": "Treaty of Seeb",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When was the Treaty of Seeb signed?",
+  "options": [
+   "25 September 1928",
+   "19 October 1920",
+   "23 July 1970",
+   "25 September 1920"
+  ],
+  "answer": 3,
+  "explain": "The Treaty of Seeb was signed on 25 September 1920.",
+  "source": "Theme 3A – Third: Rise of the Al Busaidi dynasty",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3a-047",
+  "theme": "3A",
+  "topic": "Life before 1970",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "The first automobile reached Muscat in 1928, but cars were rarely used for decades because there were no proper roads.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course states exactly this.",
+  "source": "Theme 3A – Images of Omani life",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3b-001",
+  "theme": "3B",
+  "topic": "Opening quotation",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In the 1975 quotation that opens Theme 3B, how did Sultan Qaboos describe Oman's transformation?",
+  "options": [
+   "From isolation and stagnation to openness and progress",
+   "From openness to isolation in order to protect tradition",
+   "From a united empire into a group of separate states",
+   "From wealth to poverty because of the fall in oil prices"
+  ],
+  "answer": 0,
+  "explain": "'The nation... emerging from a period of isolation and stagnation to embrace openness and progress.'",
+  "source": "Theme 3B – Opening quotation (Sultan Qaboos, 1975)",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-002",
+  "theme": "3B",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "Which source does the course cite for the academic consensus on the term 'The Renaissance Era' in Oman since 1970?",
+  "options": [
+   "Adrian Roscoe (2017)",
+   "Al-Mashani (2020)",
+   "Dhahir (2008)",
+   "Plekhanov (2005)"
+  ],
+  "answer": 3,
+  "explain": "The consensus that the Renaissance Era is a genuine historical phase is credited to Plekhanov (2005).",
+  "source": "Theme 3B – Introduction",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-003",
+  "theme": "3B",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Despite harsh geography, what did Sultan Qaboos provide to every city, town and village, according to Dhahir (2008)?",
+  "options": [
+   "Oil wells, refineries, pipelines and new commercial ports",
+   "Military bases, border forts and new police stations everywhere",
+   "Health care, education, communications and infrastructure",
+   "Free land, housing grants and private companies"
+  ],
+  "answer": 2,
+  "explain": "He laid the foundations of a modern state by providing health care, education, communication networks and infrastructure everywhere.",
+  "source": "Theme 3B – Introduction",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-004",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which countries' development achievements does the course say Sultan Qaboos drew on as models of disciplined modernisation?",
+  "options": [
+   "The United Kingdom and France",
+   "Japan and Singapore",
+   "The United States and Canada",
+   "India and Egypt"
+  ],
+  "answer": 1,
+  "explain": "His vision drew on global experiences from nations such as Japan and Singapore.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-005",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Adrian Roscoe (2017), who is cited about Sultan Qaboos's new developmental philosophy, is described as a:",
+  "options": [
+   "American philosopher",
+   "Japanese economist",
+   "British researcher",
+   "Omani sociologist"
+  ],
+  "answer": 2,
+  "explain": "The course calls Adrian Roscoe 'the British researcher'.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-006",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Where did Sultan Qaboos believe Oman's progress must begin?",
+  "options": [
+   "From within, through citizens' awareness and sense of belonging",
+   "From abroad, by copying successful foreign political systems in full",
+   "From the army first, before investing in education and health",
+   "From the oil sector first, before any human development"
+  ],
+  "answer": 0,
+  "explain": "He believed progress must begin from within, through citizens' awareness and sense of national belonging, because development depends on human capacity and education.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-007",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "The Renaissance project was limited to physical infrastructure such as roads and buildings.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "The project 'was not limited to physical infrastructure but extended to the intellectual and moral construction of the Omani people'.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-008",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "tf",
+  "difficulty": "medium",
+  "q": "Sultan Qaboos's philosophy was mainly an imitation of foreign development models.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "It 'was not an imitation of others but rather an authentic model derived from Oman's own historical, social, and cultural context'.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-009",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "On which principles did Sultan Qaboos build his state's policies?",
+  "options": [
+   "Heredity, tribal custom, wealth and military strength",
+   "Isolation, self-sufficiency and secrecy in decision-making",
+   "Oil wealth, imports and the advice of foreign experts",
+   "Shura, justice, equality and the pursuit of knowledge"
+  ],
+  "answer": 3,
+  "explain": "'He built his state's policies upon consultation (shura), justice, equality, and the pursuit of knowledge.'",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-010",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which quotation comes from Sultan Qaboos's first speech in 1970?",
+  "options": [
+   "'My utmost aim is to make Oman a strong, modern, and prosperous state...'",
+   "'I will work, as soon as possible, to establish a modern government...'",
+   "'Science and justice are the foundations of peace, security, and stability.'",
+   "'The citizen is the basis of development, and its goal.'"
+  ],
+  "answer": 1,
+  "explain": "The 1970 quote promises a modern government, a decent life for citizens and Oman's rightful place among developed nations. The others date from 1974, 1973 and 2003.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-011",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What kind of educational reform did Sultan Qaboos's vision call for?",
+  "options": [
+   "Sending all Omani students abroad instead of building schools at home",
+   "From rote learning to modern, science-based education rooted in Islamic values",
+   "Replacing religious and moral teaching entirely with technical job training",
+   "Keeping traditional rote education unchanged in every school and village"
+  ],
+  "answer": 1,
+  "explain": "True modernisation required moving from rote education to modern education integrating science, technology and innovation, while staying anchored in Islamic and moral values.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-012",
+  "theme": "3B",
+  "topic": "Religion and state",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Complete Sultan Qaboos's belief: 'Progress without morality is incomplete, and morality without progress is...'",
+  "options": [
+   "the basis of isolation from the world",
+   "more important than science and knowledge",
+   "insufficient to build a strong nation",
+   "the only true path to national wealth"
+  ],
+  "answer": 2,
+  "explain": "He believed progress without morality is incomplete, and morality without progress is insufficient to build a strong nation.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-013",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In which year did Sultan Qaboos say: 'My utmost aim is to make Oman a strong, modern, and prosperous state...'?",
+  "options": [
+   "1970",
+   "1996",
+   "1983",
+   "1974"
+  ],
+  "answer": 3,
+  "explain": "The quotation is dated 1974 in the course.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-014",
+  "theme": "3B",
+  "topic": "Authenticity and modernity",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "From which sources did Sultan Qaboos's thought draw inspiration, according to the course?",
+  "options": [
+   "Arab, Islamic, Asian and Western sources",
+   "Only Western sources, setting heritage aside",
+   "Only Asian models, rejecting Arab sources",
+   "Only local tribal customs, closed to outsiders"
+  ],
+  "answer": 0,
+  "explain": "His thinking drew on Arab, Islamic and Asian civilisational sources as well as Western intellectual and cultural achievements.",
+  "source": "Theme 3B – Authenticity and modernity",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-015",
+  "theme": "3B",
+  "topic": "Authenticity and modernity",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Sultan Qaboos's philosophy sought harmony between which pairs?",
+  "options": [
+   "Tribe and sect, region and nation, the ruler and the ruled",
+   "Tradition and progress, spirit and matter, knowledge and practice",
+   "War and peace, East and West, the old and the young generations",
+   "Wealth and poverty, the city and the village, the sea and the desert"
+  ],
+  "answer": 1,
+  "explain": "His philosophy sought harmony between tradition and progress, spirituality and material advancement, knowledge and practice.",
+  "source": "Theme 3B – Authenticity and modernity",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-016",
+  "theme": "3B",
+  "topic": "Authenticity and modernity",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What did Sultan Qaboos's cultural vision reject?",
+  "options": [
+   "Isolationism and cultural rigidity",
+   "Heritage and religious values",
+   "Tolerance and coexistence",
+   "Dialogue and the exchange of ideas"
+  ],
+  "answer": 0,
+  "explain": "His cultural vision rejected isolationism and cultural rigidity, and encouraged open dialogue grounded in cultural identity and religious values.",
+  "source": "Theme 3B – Authenticity and modernity",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-017",
+  "theme": "3B",
+  "topic": "Authenticity and modernity",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Sultan Qaboos viewed authenticity and modernity as opposites that cannot be combined.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "He viewed them as complementary forces rather than opposites.",
+  "source": "Theme 3B – Authenticity and modernity",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-018",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which statement by Aristotle does the course link to Sultan Qaboos's focus on education?",
+  "options": [
+   "'Knowledge is power'",
+   "'I think, therefore I am'",
+   "'Man is by nature a political being'",
+   "'The unexamined life is not worth living'"
+  ],
+  "answer": 2,
+  "explain": "The course links his educational priority to Aristotle's view that 'Man is by nature a political being'.",
+  "source": "Theme 3B – The human and education",
+  "origin": "course",
+  "note": "The course calls Aristotle 'the American philosopher' here and 'the Greek philosopher' later. Aristotle was an ancient Greek philosopher."
+ },
+ {
+  "id": "t3b-019",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "According to the course, what did Sultan Qaboos see as the main obstacle to progress and development?",
+  "options": [
+   "Tribal heritage",
+   "Foreign trade",
+   "Lack of oil",
+   "Ignorance"
+  ],
+  "answer": 3,
+  "explain": "He recognised that ignorance was the main obstacle to progress, and education was the key to shaping Omani society.",
+  "source": "Theme 3B – The human and education",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-020",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "On which occasion did Sultan Qaboos say 'Education is among the most important matters occupying my thoughts. I saw the ruins of ignorance...'?",
+  "options": [
+   "The opening of Majlis Oman, 2011",
+   "His first speech, 1970",
+   "The opening of Sultan Qaboos University",
+   "National Day, 1972"
+  ],
+  "answer": 3,
+  "explain": "On National Day in 1972, he stressed that education is the foundation on which the Omani state would be built.",
+  "source": "Theme 3B – The human and education",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-021",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which phrase did Sultan Qaboos use when launching the national campaign to spread education?",
+  "options": [
+   "'Trade is the foundation of progress'",
+   "'Science is the foundation of progress'",
+   "'Oil is the foundation of progress'",
+   "'Tradition is the foundation of progress'"
+  ],
+  "answer": 1,
+  "explain": "He declared that 'Science is the foundation of progress' and launched a national campaign to spread education.",
+  "source": "Theme 3B – The human and education",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-022",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In Sultan Qaboos's vision, human beings are:",
+  "options": [
+   "Only workers serving the economy",
+   "The responsibility of tribes, not the state",
+   "Both the means and the end of development",
+   "Less important than infrastructure"
+  ],
+  "answer": 2,
+  "explain": "He believed true development must be centred on human beings, as they are both the means and the end of development.",
+  "source": "Theme 3B – The human and education",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-023",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "In his National Day speech of 1972, Sultan Qaboos linked the goal of justice to:",
+  "options": [
+   "Islamic Sharia, which came to establish justice",
+   "The Treaty of Seeb between the coast and the interior",
+   "The British legal system that was adopted after 1920",
+   "The election rules of the Ya'aruba Imamate in 1650"
+  ],
+  "answer": 0,
+  "explain": "'Islamic Sharia came to establish justice among all people, and this noble goal is what we are striving to achieve.' (1972)",
+  "source": "Theme 3B – The human and education",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-024",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to Sultan Qaboos's 2003 statement, which two things are 'the foundations of peace, security, and stability'?",
+  "options": [
+   "Tribe and family",
+   "Oil and trade",
+   "Army and police",
+   "Science and justice"
+  ],
+  "answer": 3,
+  "explain": "'Science and justice are the foundations of peace, security, and stability.' (2003)",
+  "source": "Theme 3B – The human and education",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-025",
+  "theme": "3B",
+  "topic": "Youth",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which saying about youth, attributed to the Greek philosopher Aristotle, does the course say Sultan Qaboos shared?",
+  "options": [
+   "'Youth possess the power to achieve what others cannot'",
+   "'Youth should follow their elders and avoid taking risks'",
+   "'Man is by nature a political being'",
+   "'The young must first gain wealth before they gain wisdom'"
+  ],
+  "answer": 0,
+  "explain": "He 'shared the belief of the Greek philosopher Aristotle that youth possess the power to achieve what others cannot'.",
+  "source": "Theme 3B – Youth in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-026",
+  "theme": "3B",
+  "topic": "Youth",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In which year did Sultan Qaboos describe youth as 'a vital and dynamic force in this nation'?",
+  "options": [
+   "2011",
+   "1976",
+   "1996",
+   "1972"
+  ],
+  "answer": 1,
+  "explain": "The quotation 'We have always looked upon youth as a vital and dynamic force...' is dated 1976.",
+  "source": "Theme 3B – Youth in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-027",
+  "theme": "3B",
+  "topic": "Youth",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In 2011, what did Sultan Qaboos warn against regarding youth?",
+  "options": [
+   "Studying abroad at foreign universities and colleges",
+   "Taking an active part in national development",
+   "Imported ideas calling for extremism and fanaticism",
+   "Learning modern science and new technology"
+  ],
+  "answer": 2,
+  "explain": "'We reject any imported ideas that call for extremism, fanaticism, or deviation from the path of righteousness.' (2011)",
+  "source": "Theme 3B – Youth in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-028",
+  "theme": "3B",
+  "topic": "Youth",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In his 1996 address to Omani youth, how did Sultan Qaboos describe work?",
+  "options": [
+   "As the state's responsibility, not theirs",
+   "As a sacred duty",
+   "As an optional activity",
+   "As less important than wealth"
+  ],
+  "answer": 1,
+  "explain": "'Work diligently, for nothing can be achieved without effort. Work is a sacred duty...' (1996)",
+  "source": "Theme 3B – Youth in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-029",
+  "theme": "3B",
+  "topic": "Sultan Qaboos University",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, when was the foundation stone of Sultan Qaboos University laid?",
+  "options": [
+   "1986",
+   "1979",
+   "1982",
+   "1990"
+  ],
+  "answer": 0,
+  "explain": "The course says the decision was announced in 1982 and the foundation stone was laid in 1986.",
+  "source": "Theme 3B – Youth – Sultan Qaboos University",
+  "origin": "course",
+  "note": "Standard histories give 1986 as the year SQU opened and took its first students. Use the course's dates (decision 1982, foundation stone 1986) in the exam."
+ },
+ {
+  "id": "t3b-030",
+  "theme": "3B",
+  "topic": "Sultan Qaboos University",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "By when had the idea of establishing a national university taken shape, according to the course?",
+  "options": [
+   "By the early 1960s",
+   "By the mid-1990s",
+   "By the end of the 1970s",
+   "Only after 2000"
+  ],
+  "answer": 2,
+  "explain": "By the end of the 1970s the idea of a national university had taken shape.",
+  "source": "Theme 3B – Youth – Sultan Qaboos University",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-031",
+  "theme": "3B",
+  "topic": "Sultan Qaboos University",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Sultan Qaboos University was designed from the start to modern academic and scientific standards, to offer opportunities equal to leading international universities.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course states this directly.",
+  "source": "Theme 3B – Youth – Sultan Qaboos University",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-032",
+  "theme": "3B",
+  "topic": "Youth",
+  "type": "tf",
+  "difficulty": "medium",
+  "q": "The government invested in education and training only inside Oman and did not send students abroad.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "The government invested heavily in education and training programmes 'both within Oman and abroad'.",
+  "source": "Theme 3B – Youth in the thought of Sultan Qaboos",
+  "origin": "course"
+ },
+ {
+  "id": "t3b-033",
+  "theme": "3B",
+  "topic": "Sultan Qaboos University",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "What was the strategic purpose of Sultan Qaboos University?",
+  "options": [
+   "To chase foreign rankings while ignoring national needs",
+   "To replace research with ceremonial and social functions",
+   "To educate only a small, privileged group of families",
+   "To open science and knowledge to Omani men and women"
+  ],
+  "answer": 3,
+  "explain": "Sultan Qaboos called it 'a national institution with a clear mission: to open the doors of science and knowledge to Omani men and women'.",
+  "source": "Theme 3B – Youth – Sultan Qaboos University",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3b-034",
+  "theme": "3B",
+  "topic": "Authenticity and modernity",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which national campaign title best reflects Theme 3B?",
+  "options": [
+   "Tradition Forever, Without Renewal",
+   "Modern Life without Memory or Roots",
+   "Development Through Closed Doors",
+   "Rooted in Identity, Open to Progress"
+  ],
+  "answer": 3,
+  "explain": "The chapter's core idea is balancing authenticity (identity) with modernity (progress).",
+  "source": "Theme 3B – Authenticity and modernity",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3b-035",
+  "theme": "3B",
+  "topic": "Youth",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "How should a proposal to cut investment in youth be judged?",
+  "options": [
+   "Reject it: youth are central to future progress",
+   "Accept it: youth and development are unrelated",
+   "Accept it: youth policy is optional",
+   "Accept it: foreign training can replace local jobs"
+  ],
+  "answer": 0,
+  "explain": "Sultan Qaboos called youth 'the real wealth of the nation' and the builders of Oman's present and future.",
+  "source": "Theme 3B – Youth in the thought of Sultan Qaboos",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3b-036",
+  "theme": "3B",
+  "topic": "Authenticity and modernity",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "How can authenticity and modernity be balanced, according to Sultan Qaboos's thought?",
+  "options": [
+   "By rejecting tradition entirely in favour of modern technology",
+   "By keeping tradition unchanged and avoiding all outside influence",
+   "By combining heritage and moral values with renewal and openness",
+   "By treating spiritual and material progress as complete opposites"
+  ],
+  "answer": 2,
+  "explain": "He pursued a continuous synthesis of tradition and innovation, drawing strength from identity while staying open to renewal.",
+  "source": "Theme 3B – Authenticity and modernity",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3b-037",
+  "theme": "3B",
+  "topic": "Youth",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "How does the chapter view youth in relation to development?",
+  "options": [
+   "Mainly as future employees",
+   "As the real wealth of the nation",
+   "As a burden on development",
+   "As a group to be shielded from all responsibility"
+  ],
+  "answer": 1,
+  "explain": "'Our youth are the real wealth of the nation.' (Sultan Qaboos, 2011)",
+  "source": "Theme 3B – Youth in the thought of Sultan Qaboos",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3b-038",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which student leadership programme best reflects Theme 3B as a whole?",
+  "options": [
+   "One focused only on exam results at public and private schools",
+   "One that separates scientific learning from ethics and citizenship",
+   "One that combines critical thinking with service to the nation",
+   "One that discourages dialogue, debate and innovation"
+  ],
+  "answer": 2,
+  "explain": "His vision linked education, critical thinking and moral responsibility to active participation in national development.",
+  "source": "Theme 3B – Human and education / Youth",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3b-039",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Why was education closely linked to national development?",
+  "options": [
+   "It develops awareness, knowledge, skills and moral responsibility",
+   "It was kept separate from the national development project",
+   "It mattered only for the children of elite families",
+   "It was mainly a tool to reduce young people's leisure time"
+  ],
+  "answer": 0,
+  "explain": "Education was regarded as the foundation of the Omani Renaissance, nurturing enlightened thought and moral responsibility.",
+  "source": "Theme 3B – The human and education",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3b-040",
+  "theme": "3B",
+  "topic": "Youth",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which youth programme best reflects Sultan Qaboos's thought?",
+  "options": [
+   "A campaign encouraging youth to avoid any public responsibility",
+   "Skills training combined with civic duty, integrity and confidence",
+   "A project that separates technical learning from moral development",
+   "A policy that rewards passive obedience and nothing else"
+  ],
+  "answer": 1,
+  "explain": "He urged youth to work with determination, integrity and self-confidence, and combined knowledge with ethics and civic responsibility.",
+  "source": "Theme 3B – Youth in the thought of Sultan Qaboos",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t3b-041",
+  "theme": "3B",
+  "topic": "Authenticity and modernity",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Why did Sultan Qaboos's thought combine authenticity and modernity?",
+  "options": [
+   "He believed heritage should be replaced as quickly as possible by modern foreign ideas",
+   "He believed modernity and authenticity can never exist together in one society",
+   "He mainly wanted to attract more foreign tourists to Oman's heritage sites and forts",
+   "Modernity without authenticity loses meaning; authenticity without renewal stagnates"
+  ],
+  "answer": 3,
+  "explain": "'Modernity without authenticity risks losing meaning, while authenticity without renewal risks stagnation.'",
+  "source": "Theme 3B – Authenticity and modernity",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3b-042",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What did the British researcher Adrian Roscoe (2017) note about Sultan Qaboos?",
+  "options": [
+   "He copied the British constitutional model directly into Oman's system of government",
+   "He focused on foreign policy and largely neglected the country's internal development",
+   "He abandoned Oman's moral values in order to modernise the country more quickly",
+   "He created a new development philosophy that reshaped Oman while keeping its values"
+  ],
+  "answer": 3,
+  "explain": "Roscoe noted that Sultan Qaboos established a new developmental philosophy that reshaped Oman's identity and elevated its position, while keeping its authenticity and moral values.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3b-043",
+  "theme": "3B",
+  "topic": "Modern state",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When was the project of Oman's Blessed Renaissance launched?",
+  "options": [
+   "18 November 1970",
+   "23 July 1970",
+   "11 January 1970",
+   "25 September 1970"
+  ],
+  "answer": 1,
+  "explain": "Sultan Qaboos launched the Blessed Renaissance on 23 July 1970.",
+  "source": "Theme 3B – The modern state in the thought of Sultan Qaboos",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3b-044",
+  "theme": "3B",
+  "topic": "Sultan Qaboos University",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When was the decision to establish Sultan Qaboos University announced?",
+  "options": [
+   "1990",
+   "1986",
+   "1982",
+   "1979"
+  ],
+  "answer": 2,
+  "explain": "The decision was announced in 1982, and the foundation stone was laid in 1986 (per the course).",
+  "source": "Theme 3B – Youth – Sultan Qaboos University",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3b-045",
+  "theme": "3B",
+  "topic": "Human and education",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "In Sultan Qaboos's thought, what is the basis of development?",
+  "options": [
+   "The citizen: the basis and goal of development",
+   "Oil revenues, which pay for every project",
+   "Foreign investment and international loans",
+   "Military strength and well-protected borders"
+  ],
+  "answer": 0,
+  "explain": "'The citizen is the basis of development, and its goal.' (1973)",
+  "source": "Theme 3B – The human and education",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3b-046",
+  "theme": "3B",
+  "topic": "Authenticity and modernity",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Sultan Qaboos encouraged open dialogue and the exchange of ideas.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "He encouraged open dialogue and exchange of ideas, grounded in solid cultural identity and religious values.",
+  "source": "Theme 3B – Authenticity and modernity",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t3b-047",
+  "theme": "3B",
+  "topic": "Introduction",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Sultan Qaboos succeeded in turning the domestic and international challenges facing Oman into opportunities for growth.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course says that despite political, economic and social challenges, he succeeded in turning them into opportunities for growth.",
+  "source": "Theme 3B – Introduction",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t4-001",
+  "theme": "4",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which legal frameworks did Sultan Haitham stress as responding to the new stage and aligning with Oman Vision 2040?",
+  "options": [
+   "The Basic Law of the State and the Law of Council of Oman",
+   "The Law of Tribal Councils and the Charter of the Majlis",
+   "The UN Charter and the Universal Declaration of Human Rights",
+   "The Treaty of Seeb and the Judicial Authority Law of 1999"
+  ],
+  "answer": 0,
+  "explain": "The introduction names the Basic Law of the State, the Law of Council of Oman and other legal frameworks aligned with Oman Vision 2040.",
+  "source": "Theme 4 – Introduction",
+  "origin": "course"
+ },
+ {
+  "id": "t4-002",
+  "theme": "4",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What does the term 'Renewed Renaissance' mean in Theme 4?",
+  "options": [
+   "Returning Oman to the traditional way of life it had before 1970",
+   "Continuing Qaboos's renaissance with renewed ambition",
+   "A plan that focuses only on heritage festivals and celebrations",
+   "Breaking with Sultan Qaboos's philosophy and starting again from zero"
+  ],
+  "answer": 1,
+  "explain": "Sultan Haitham reintroduces the renaissance in modern contexts, 'continuing the process of renewal established by Sultan Qaboos'.",
+  "source": "Theme 4 – Introduction",
+  "origin": "course"
+ },
+ {
+  "id": "t4-003",
+  "theme": "4",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which leader said in 2020: 'The trust placed upon us is a great responsibility, and it requires us all to work together...'?",
+  "options": [
+   "Sultan Qaboos bin Said",
+   "Imam Ahmad bin Said",
+   "Sultan Haitham bin Tariq",
+   "Sayyid Tariq bin Taimur"
+  ],
+  "answer": 2,
+  "explain": "This 2020 quotation is from Sultan Haitham bin Tariq.",
+  "source": "Theme 4 – Introduction",
+  "origin": "course"
+ },
+ {
+  "id": "t4-004",
+  "theme": "4",
+  "topic": "Architect of modern Oman",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which Sultan Qaboos quotation does Theme 4 use to show his ambition to rebuild Oman and return it to the ranks of advanced nations?",
+  "options": [
+   "'The trust placed upon us is a great responsibility...'",
+   "'Islamic Sharia came to establish justice among all people.'",
+   "'We reject any imported ideas that call for extremism...'",
+   "'We will proceed forward to rebuild this country...'"
+  ],
+  "answer": 3,
+  "explain": "Theme 4 quotes: 'We will proceed forward to rebuild this country and bring it back to its rightful place among the advanced nations.'",
+  "source": "Theme 4 – Sultan Qaboos: the architect of modern Oman",
+  "origin": "course"
+ },
+ {
+  "id": "t4-005",
+  "theme": "4",
+  "topic": "Accession",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In his first national address, what did Sultan Haitham pledge?",
+  "options": [
+   "To follow his predecessor's path and keep a balanced foreign policy",
+   "To end Oman's neutrality and join regional military alliances",
+   "To suspend the Basic Law of the State and rule by royal decree alone",
+   "To return to the economic policies Oman followed before 1970"
+  ],
+  "answer": 0,
+  "explain": "He paid tribute to his predecessor, pledging to follow his path, continue Oman's progress and maintain its balanced foreign policy.",
+  "source": "Theme 4 – Sultan Qaboos: the architect / Transition",
+  "origin": "course"
+ },
+ {
+  "id": "t4-006",
+  "theme": "4",
+  "topic": "Accession",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What was Sultan Haitham's approach at the start of his reign focused on?",
+  "options": [
+   "Ending cooperation with friendly nations in the region",
+   "Military expansion and settling border disputes by force",
+   "Institutional development and modernising state structures",
+   "Cutting the number of schools and hospitals to save money"
+  ],
+  "answer": 2,
+  "explain": "Facing global changes and economic challenges, his approach focused on institutional development and modernising state structures.",
+  "source": "Theme 4 – Transition of leadership",
+  "origin": "course"
+ },
+ {
+  "id": "t4-007",
+  "theme": "4",
+  "topic": "Who is Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "What is Sultan Haitham's relationship to Sultan Qaboos?",
+  "options": [
+   "His son",
+   "His cousin",
+   "His brother",
+   "His nephew"
+  ],
+  "answer": 1,
+  "explain": "Sultan Haitham is the cousin of Sultan Qaboos bin Said and a prominent member of the royal family.",
+  "source": "Theme 4 – Who is Sultan Haitham bin Tariq?",
+  "origin": "course"
+ },
+ {
+  "id": "t4-008",
+  "theme": "4",
+  "topic": "Who is Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Who was Sultan Haitham's father?",
+  "options": [
+   "Sayyid Thuwaini bin Said",
+   "Sultan Said bin Taimur",
+   "Sayyid Turki bin Said",
+   "Sayyid Tariq bin Taimur"
+  ],
+  "answer": 3,
+  "explain": "His late father, Sayyid Tariq bin Taimur, made sure he followed a distinguished educational path.",
+  "source": "Theme 4 – Education",
+  "origin": "course"
+ },
+ {
+  "id": "t4-009",
+  "theme": "4",
+  "topic": "Who is Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Before becoming Sultan, Sultan Haitham chaired which committee?",
+  "options": [
+   "The Main Committee for Oman Vision 2020",
+   "The Main Committee for Oman Vision 2040",
+   "The Royal Family Council of the Al Busaidi",
+   "The Defense Council of the Sultanate"
+  ],
+  "answer": 1,
+  "explain": "He chaired the Main Committee for Oman Vision 2040.",
+  "source": "Theme 4 – Who is Sultan Haitham bin Tariq?",
+  "origin": "course"
+ },
+ {
+  "id": "t4-010",
+  "theme": "4",
+  "topic": "Education of Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Where did Sultan Haitham receive his primary education?",
+  "options": [
+   "A'Saidiya School in Muscat",
+   "Pembroke College, Oxford",
+   "A Quranic school in Nizwa",
+   "Sultan Qaboos University"
+  ],
+  "answer": 0,
+  "explain": "He received his primary education at A'Saidiya School in Muscat.",
+  "source": "Theme 4 – Education",
+  "origin": "course"
+ },
+ {
+  "id": "t4-011",
+  "theme": "4",
+  "topic": "Education of Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which programme did Sultan Haitham study at Pembroke College, Oxford?",
+  "options": [
+   "The Military Leadership Programme",
+   "The Medicine and Health Sciences course",
+   "The Foreign Service Programme (FSP)",
+   "The Petroleum Engineering degree"
+  ],
+  "answer": 2,
+  "explain": "He studied in the Foreign Service Programme (FSP) at Pembroke College, specialising in diplomatic and foreign affairs.",
+  "source": "Theme 4 – Education",
+  "origin": "course"
+ },
+ {
+  "id": "t4-012",
+  "theme": "4",
+  "topic": "Career of Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "In which year did Sultan Haitham begin his career at the Ministry of Foreign Affairs, and for how long did he serve there?",
+  "options": [
+   "1970, for 32 years",
+   "1994, for 8 years",
+   "1986, for 16 years",
+   "1979, for 23 years"
+  ],
+  "answer": 3,
+  "explain": "He began in 1979 and served in various roles at the ministry for 23 years.",
+  "source": "Theme 4 – Professional career",
+  "origin": "course"
+ },
+ {
+  "id": "t4-013",
+  "theme": "4",
+  "topic": "Career of Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which post did Sultan Haitham take up in 1986?",
+  "options": [
+   "Minister of Heritage and Culture",
+   "Chairman of the State Council",
+   "Secretary-General of the Ministry of Foreign Affairs",
+   "Undersecretary for Political Affairs"
+  ],
+  "answer": 3,
+  "explain": "In 1986 he became Undersecretary for Political Affairs, and in 1994 Secretary-General of the Ministry of Foreign Affairs.",
+  "source": "Theme 4 – Professional career",
+  "origin": "course"
+ },
+ {
+  "id": "t4-014",
+  "theme": "4",
+  "topic": "Career of Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Sultan Haitham served as Secretary-General of the Ministry of Foreign Affairs during which period?",
+  "options": [
+   "2002–2020",
+   "1979–1986",
+   "1994–2002",
+   "1986–1994"
+  ],
+  "answer": 2,
+  "explain": "He was Secretary-General of the Ministry of Foreign Affairs from 1994 to 2002.",
+  "source": "Theme 4 – Who is Sultan Haitham / Professional career",
+  "origin": "course"
+ },
+ {
+  "id": "t4-015",
+  "theme": "4",
+  "topic": "Career of Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "During his diplomatic service, with which countries did Sultan Haitham notably strengthen bilateral relations?",
+  "options": [
+   "The United Kingdom and Japan",
+   "The United States and China",
+   "France and Portugal",
+   "Iran and India"
+  ],
+  "answer": 0,
+  "explain": "His tenure focused on bilateral relations with friendly countries, 'notably the United Kingdom, Japan, and others'.",
+  "source": "Theme 4 – Professional career",
+  "origin": "course"
+ },
+ {
+  "id": "t4-016",
+  "theme": "4",
+  "topic": "Minister of Heritage and Culture",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "As Minister of Heritage and Culture, Sultan Haitham encouraged documenting and reviving which intangible heritage?",
+  "options": [
+   "Oil exploration records and geological survey maps",
+   "Traditional crafts, oral poetry and performing arts",
+   "Foreign trade agreements and treaty documents",
+   "Military history archives and old weapons collections"
+  ],
+  "answer": 1,
+  "explain": "He encouraged documenting and reviving intangible heritage such as traditional crafts, oral poetry and performing arts.",
+  "source": "Theme 4 – Minister of Heritage and Culture",
+  "origin": "course"
+ },
+ {
+  "id": "t4-017",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "By which Royal Decree was the Basic Law of the State first promulgated?",
+  "options": [
+   "Royal Decree No. 1/70",
+   "Royal Decree No. 99/2011",
+   "Royal Decree No. 101/96",
+   "Royal Decree No. 35/2022"
+  ],
+  "answer": 2,
+  "explain": "The Basic Law of the State was first promulgated by Royal Decree No. 101/96.",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "course"
+ },
+ {
+  "id": "t4-018",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "What did the Basic Law amendments of 19 October 2011 (Royal Decree No. 99/2011) do, according to the course?",
+  "options": [
+   "They abolished both the Royal Family Council and the Defense Council",
+   "They replaced the hereditary monarchy with an elected presidency",
+   "They issued the first Judicial Authority Law and the Basic Statute",
+   "They widened the State and Shura Councils' powers and amended Article 6"
+  ],
+  "answer": 3,
+  "explain": "The 2011 amendments expanded the powers of the State Council and Shura Council and amended Article (6) on the transfer of power.",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "course"
+ },
+ {
+  "id": "t4-019",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to Article 5 of the Basic Law, power passes among:",
+  "options": [
+   "Candidates elected by a vote of the Shura Council",
+   "The male descendants of Sayyid Turki bin Said",
+   "All adult members of the Al Busaidi tribe",
+   "The descendants of Imam Sultan bin Saif"
+  ],
+  "answer": 1,
+  "explain": "The system is a hereditary monarchy (Article 5), with power passing among the male descendants of Sayyid Turki bin Said.",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "course"
+ },
+ {
+  "id": "t4-020",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which conditions does the Basic Law require of the ruler?",
+  "options": [
+   "Muslim, mature, rational, and the legitimate son of Omani Muslim parents",
+   "Elected by a two-thirds majority of the Shura Council and State Council",
+   "A former Minister of Foreign Affairs with at least ten years' service",
+   "The eldest son of the previous Sultan, whatever his religion or age"
+  ],
+  "answer": 0,
+  "explain": "The law requires the ruler to be Muslim, mature, rational and the legitimate son of Omani Muslim parents.",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "course"
+ },
+ {
+  "id": "t4-021",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Under Article 6, within how many days of the throne becoming vacant must the Royal Family Council choose a successor?",
+  "options": [
+   "Seven days",
+   "Thirty days",
+   "Three days",
+   "Ten days"
+  ],
+  "answer": 2,
+  "explain": "Article 6: within three days of the position of Sultan becoming vacant, the Royal Family Council must choose a successor.",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "course"
+ },
+ {
+  "id": "t4-022",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "If the Royal Family Council fails to agree, who enforces the late Sultan's will naming his successor?",
+  "options": [
+   "The Council of Ministers, together with the commanders of the Royal Oman Police",
+   "A special committee of tribal sheikhs chosen from every governorate by the Royal Court",
+   "The Shura Council alone, by a simple majority vote of its elected members in session",
+   "The Defense Council, with the heads of the State Council, Shura Council and Supreme Court"
+  ],
+  "answer": 3,
+  "explain": "In that case the Defense Council, with the heads of the State Council, Shura Council and Supreme Court and two of the oldest deputy chairmen of the Supreme Court, enforces the will.",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "course"
+ },
+ {
+  "id": "t4-023",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Some analysts say the predefined succession process reflects the influence of which model?",
+  "options": [
+   "The American presidential system",
+   "The British constitutional monarchy",
+   "The Ya'aruba Imamate",
+   "The French republic"
+  ],
+  "answer": 1,
+  "explain": "Some analysts see the influence of the British constitutional monarchy model, which ensures continuity and stability.",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "course"
+ },
+ {
+  "id": "t4-024",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "According to the course, in which year was Article 6 amended so that the Royal Family Council agrees on the successor and the criteria for choosing the heir are defined?",
+  "options": [
+   "2022",
+   "1996",
+   "2020",
+   "2011"
+  ],
+  "answer": 0,
+  "explain": "The course says Article 6 'was amended in 2022', and that this amendment also defined the criteria for choosing the heir.",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "course",
+  "note": "Historically, the new Basic Law (Royal Decree 6/2021, January 2021) introduced the Crown Prince system of succession. Theme 2 also refers to a 2021 amendment. For this course, the stated answer is 2022."
+ },
+ {
+  "id": "t4-025",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "When Sultan Qaboos died in 2020, his will, left in a sealed envelope, named Sultan Haitham bin Tariq as his successor.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course says the sealed will was applied in 2020 and nominated Sultan Haitham. The speed and unanimity showed the stability of Oman's political system.",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "course"
+ },
+ {
+  "id": "t4-026",
+  "theme": "4",
+  "topic": "Gulf transformations",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which factors does the course say drove the transformations in the Gulf region?",
+  "options": [
+   "Rapid population decline and the closure of the region's main ports",
+   "The discovery of oil in the Gulf for the very first time in 2020",
+   "The complete end of trade between the Gulf and Asia and Africa",
+   "Oil price swings and the need to diversify beyond a rentier economy"
+  ],
+  "answer": 3,
+  "explain": "The factors include global oil price fluctuations, growing awareness of economic diversification, and sustainable development beyond the rentier economy.",
+  "source": "Theme 4 – Internal transformations and challenges",
+  "origin": "course"
+ },
+ {
+  "id": "t4-027",
+  "theme": "4",
+  "topic": "Gulf transformations",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which sectors is Oman developing to reduce its dependence on oil?",
+  "options": [
+   "Military manufacturing and arms exports",
+   "Logistics, tourism, industry and renewable energy",
+   "Pearl diving, camel trading and fishing only",
+   "Oil refining and gas exports only"
+  ],
+  "answer": 1,
+  "explain": "Diversification efforts target logistics, tourism, industry and renewable energy, in line with Oman Vision 2040.",
+  "source": "Theme 4 – Internal transformations and challenges",
+  "origin": "course"
+ },
+ {
+  "id": "t4-028",
+  "theme": "4",
+  "topic": "Oman Vision 2040",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "What kind of economy does Oman Vision 2040 seek to build?",
+  "options": [
+   "Fully dependent on oil and gas export revenues",
+   "A closed economy based mainly on agriculture",
+   "Knowledge-based, innovative and sustainable",
+   "An economy built mainly on foreign aid and loans"
+  ],
+  "answer": 2,
+  "explain": "Oman Vision 2040 seeks to build a knowledge-based, innovative and sustainable economy.",
+  "source": "Theme 4 – Internal transformations and challenges",
+  "origin": "course"
+ },
+ {
+  "id": "t4-029",
+  "theme": "4",
+  "topic": "Domestic reforms",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What have Oman's domestic reforms focused on, according to the course?",
+  "options": [
+   "Institutional governance, citizen participation and the rule of law",
+   "Limiting public education to technical and vocational subjects",
+   "Reducing citizen participation and centralising power in one office",
+   "Abolishing the Basic Law of the State and its later amendments"
+  ],
+  "answer": 0,
+  "explain": "Domestic reforms focus on stronger institutional governance, wider citizen participation and the rule of law under the Basic Law.",
+  "source": "Theme 4 – Internal transformations and challenges",
+  "origin": "course"
+ },
+ {
+  "id": "t4-030",
+  "theme": "4",
+  "topic": "Future outlook",
+  "type": "mcq",
+  "difficulty": "hard",
+  "q": "According to the course, the success of Oman Vision 2040 depends on:",
+  "options": [
+   "Higher world oil prices alone, without the need for any further reform",
+   "Ending dialogue and cooperation with Oman's regional neighbours",
+   "Turning diversification into real gains in productivity and innovation",
+   "Reducing the number of government institutions to a single ministry"
+  ],
+  "answer": 2,
+  "explain": "Success 'will hinge on the extent to which economic diversification initiatives are translated into tangible outcomes that enhance productivity, competitiveness, and innovation'.",
+  "source": "Theme 4 – Future outlook for Oman",
+  "origin": "course"
+ },
+ {
+  "id": "t4-031",
+  "theme": "4",
+  "topic": "Foreign policy",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Someone argues that Oman should abandon moderation and join regional rivalries. How should this be judged?",
+  "options": [
+   "Accept it, but only if world oil prices fall sharply",
+   "Reject it: moderation and dialogue are core Omani values",
+   "Accept it, because rivalry is what builds stability",
+   "Accept it, because Oman Vision 2040 clearly requires it"
+  ],
+  "answer": 1,
+  "explain": "Oman keeps a moderate, independent foreign policy prioritising dialogue, mediation and peaceful coexistence, away from regional conflicts and rivalries.",
+  "source": "Theme 4 – Internal transformations and challenges",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-032",
+  "theme": "4",
+  "topic": "Foreign policy",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "How should Oman respond to a regional crisis, according to Theme 4?",
+  "options": [
+   "Isolate itself from all diplomacy and international contact",
+   "Pressure its neighbours with aggressive rhetoric",
+   "Join the regional power rivalries immediately",
+   "Prioritise dialogue, mediation and peaceful coexistence"
+  ],
+  "answer": 3,
+  "explain": "Oman's approach has allowed it to play a constructive role in resolving disputes and fostering regional stability.",
+  "source": "Theme 4 – Internal transformations and challenges",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-033",
+  "theme": "4",
+  "topic": "Overview",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "What is the main focus of the Theme 4 development story?",
+  "options": [
+   "It links reformed governance with better quality of life",
+   "It is about a single royal speech and nothing more",
+   "It ignores the people and focuses on monuments",
+   "It deals only with Oman's external relations and diplomacy"
+  ],
+  "answer": 0,
+  "explain": "Theme 4 links institutional and legal reform to raising citizens' quality of life and comprehensive development.",
+  "source": "Theme 4 – Introduction",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-034",
+  "theme": "4",
+  "topic": "Transfer of power",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Why is the Basic Statute (Basic Law) of the State important?",
+  "options": [
+   "It frames governance and sets out how power is transferred",
+   "It applies only to the cultural and heritage policy of Oman",
+   "It abolished the monarchy and created a republic in 1996",
+   "It replaced Oman Vision 2040 as the national development plan"
+  ],
+  "answer": 0,
+  "explain": "The Basic Law is the foundation of the Omani legal system and contains clear provisions on the transfer of power (Articles 5 and 6).",
+  "source": "Theme 4 – Transfer of power",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-035",
+  "theme": "4",
+  "topic": "Overview",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which policy package is most consistent with Theme 4?",
+  "options": [
+   "Focus only on heritage ceremonies and archaeological sites",
+   "Strengthen governance, diversify, empower citizens, innovate",
+   "Remove the legal frameworks and abandon all central planning",
+   "Depend on oil revenues, reduce dialogue and delay all reforms"
+  ],
+  "answer": 1,
+  "explain": "The course describes efforts to diversify the economy, empower citizens and improve institutional efficiency, in line with Oman Vision 2040.",
+  "source": "Theme 4 – Future outlook for Oman",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-036",
+  "theme": "4",
+  "topic": "Overview",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which slogan best reflects Theme 4 as a whole?",
+  "options": [
+   "Power through rivalry with our regional neighbours",
+   "Tradition without institutions, laws or planning",
+   "Oil first, reform later: wealth will solve everything",
+   "Renewed renaissance: reform and sustainable progress"
+  ],
+  "answer": 3,
+  "explain": "Theme 4 presents a renewed renaissance built on reform, diversification and sustainable development.",
+  "source": "Theme 4 – Introduction / Future outlook",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-037",
+  "theme": "4",
+  "topic": "Challenges",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Should measures to create jobs for young people wait until oil prices recover?",
+  "options": [
+   "Yes, tourism policy should replace youth policy",
+   "Yes, youth jobs are unrelated to national stability",
+   "No, jobs for young people are an urgent priority",
+   "Yes, youth jobs come second to other development"
+  ],
+  "answer": 2,
+  "explain": "The course lists providing employment opportunities for youth as a key challenge that needs continuous reform, despite fluctuating oil prices.",
+  "source": "Theme 4 – Internal transformations and challenges",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-038",
+  "theme": "4",
+  "topic": "Introduction",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which reform proposal best reflects the renewed renaissance?",
+  "options": [
+   "Reduce coordination among state institutions and ministries",
+   "Reorganise institutions and align legal reform with Vision 2040",
+   "Delay legal reform and leave every ministry unchanged for years",
+   "Focus on symbolic ceremonies that do not affect people's lives"
+  ],
+  "answer": 1,
+  "explain": "The renewed renaissance began with comprehensive structural reform of institutions under a developmental, institutional and legal framework aligned with Vision 2040.",
+  "source": "Theme 4 – Introduction",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-039",
+  "theme": "4",
+  "topic": "Career of Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When was Sultan Haitham bin Tariq appointed Minister of Heritage and Culture?",
+  "options": [
+   "November 1986",
+   "October 1994",
+   "January 2020",
+   "February 2002"
+  ],
+  "answer": 3,
+  "explain": "Sultan Qaboos appointed him Minister of Heritage and Culture in February 2002.",
+  "source": "Theme 4 – Minister of Heritage and Culture",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-040",
+  "theme": "4",
+  "topic": "Architect of modern Oman",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Why is Sultan Qaboos called the architect of modern Oman?",
+  "options": [
+   "He focused only on foreign affairs and not on development",
+   "He ended the institutional planning programmes of the state",
+   "He launched the Renaissance and built the modern state",
+   "He reduced Oman's role in regional development"
+  ],
+  "answer": 2,
+  "explain": "Sultan Qaboos launched the Omani Renaissance in 1970 and built a modern state with human-centred development.",
+  "source": "Theme 4 – Sultan Qaboos: the architect of modern Oman",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-041",
+  "theme": "4",
+  "topic": "Future outlook",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Can Oman's stability and development depend on oil wealth alone?",
+  "options": [
+   "No, the chapter stresses economic diversification",
+   "Yes, the claim is fully correct as stated",
+   "Yes, but only for the period after 2020",
+   "Yes, because innovation is not mentioned in the chapter"
+  ],
+  "answer": 0,
+  "explain": "Stability and development 'are not solely dependent on oil wealth'. Oman is diversifying through Vision 2040.",
+  "source": "Theme 4 – Future outlook for Oman",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-042",
+  "theme": "4",
+  "topic": "Who is Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When was Sultan Haitham bin Tariq born?",
+  "options": [
+   "23 July 1970",
+   "11 October 1954",
+   "11 January 2020",
+   "25 September 1920"
+  ],
+  "answer": 1,
+  "explain": "He was born in Muscat on 11 October 1954.",
+  "source": "Theme 4 – Who is Sultan Haitham bin Tariq?",
+  "origin": "past-paper"
+ },
+ {
+  "id": "t4-043",
+  "theme": "4",
+  "topic": "Accession",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "When did Sultan Haitham bin Tariq ascend the throne of Oman?",
+  "options": [
+   "11 October 2020",
+   "23 July 2020",
+   "11 January 2020",
+   "10 January 2020"
+  ],
+  "answer": 2,
+  "explain": "He took power on 11 January 2020, the day after Sultan Qaboos died (10 January 2020), in accordance with the Basic Law.",
+  "source": "Theme 4 – Who is Sultan Haitham bin Tariq?",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t4-044",
+  "theme": "4",
+  "topic": "Who is Sultan Haitham",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "The Al Busaidi dynasty is among the oldest ruling families in the Arab world.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explain": "The course says the Al Busaidi dynasty, ruling since Imam Ahmed bin Said in 1744, is among the oldest ruling families in the Arab world.",
+  "source": "Theme 4 – Who is Sultan Haitham bin Tariq?",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t4-045",
+  "theme": "4",
+  "topic": "Who is Sultan Haitham",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Sultan Haitham was born in Salalah in 1970.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "He was born in Muscat on 11 October 1954.",
+  "source": "Theme 4 – Who is Sultan Haitham bin Tariq?",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t4-046",
+  "theme": "4",
+  "topic": "Education of Sultan Haitham",
+  "type": "mcq",
+  "difficulty": "easy",
+  "q": "Which university in the United Kingdom did Sultan Haitham attend?",
+  "options": [
+   "Oxford University (Pembroke College)",
+   "Sandhurst Royal Military Academy",
+   "University of Edinburgh (Law School)",
+   "Cambridge University (King's College)"
+  ],
+  "answer": 0,
+  "explain": "He studied in the Foreign Service Programme at Pembroke College, Oxford University.",
+  "source": "Theme 4 – Education",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t4-047",
+  "theme": "4",
+  "topic": "Minister of Heritage and Culture",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Sultan Haitham was appointed Minister of Heritage and Culture in 1994.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "He was appointed Minister of Heritage and Culture in February 2002. In 1994 he became Secretary-General of the Ministry of Foreign Affairs.",
+  "source": "Theme 4 – Minister of Heritage and Culture",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t4-048",
+  "theme": "4",
+  "topic": "Challenges",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "Which of the following is a challenge the course says Oman faces in Sultan Haitham's era?",
+  "options": [
+   "A shortage of primary schools in the capital, Muscat",
+   "The lack of any legal framework for choosing a successor",
+   "Occupation of its ports by a foreign colonial power",
+   "Creating jobs for youth and attracting foreign investment"
+  ],
+  "answer": 3,
+  "explain": "Challenges include youth employment, attracting foreign investment, and fiscal sustainability amid fluctuating oil prices and the energy transition.",
+  "source": "Theme 4 – Internal transformations and challenges",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t4-049",
+  "theme": "4",
+  "topic": "Future outlook",
+  "type": "mcq",
+  "difficulty": "medium",
+  "q": "According to the course, what are the crucial pillars of Oman's national strength?",
+  "options": [
+   "Political stability and social cohesion",
+   "Tribal loyalty and regional rivalry",
+   "Foreign aid and imported goods",
+   "Oil wealth and strong military power"
+  ],
+  "answer": 0,
+  "explain": "'Maintaining political stability and social cohesion will remain crucial pillars of Oman's national strength.'",
+  "source": "Theme 4 – Future outlook for Oman",
+  "origin": "comprehension"
+ },
+ {
+  "id": "t4-050",
+  "theme": "4",
+  "topic": "Future outlook",
+  "type": "tf",
+  "difficulty": "easy",
+  "q": "Oman's stability and development depend on oil wealth only.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explain": "They also depend on sound governance, strategic foresight and the ability to adapt.",
+  "source": "Theme 4 – Future outlook for Oman",
+  "origin": "comprehension"
+ }
+]
