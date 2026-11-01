@@ -2,7 +2,7 @@
    Deck engine — navigation, builds, hover details, charts,
    interactive widgets, overview, presenter view.
    ========================================================== */
-import { Stage3D } from './scenes.js?v=1793561645';
+import { Stage3D } from './scenes.js?v=1793564796';
 
 const $ = (s, el = document) => el.querySelector(s);
 const $$ = (s, el = document) => [...el.querySelectorAll(s)];
@@ -72,6 +72,7 @@ function chrome() {
   $('#chapter').innerHTML = `<i></i>${th.name}`;
   $('#counter').textContent = `${String(idx + 1).padStart(2, '0')} / ${slides.length}`;
   $('#chapter').style.opacity = sl.dataset.chrome === 'off' ? 0 : 1;
+  $('#brand').style.opacity = sl.id === 's-cover' ? 0 : 1;
 }
 function broadcast() { if (chan && !PRESENTER) chan.postMessage({ idx, step: steps(slides[idx]).filter(s => s.classList.contains('shown')).length }); }
 

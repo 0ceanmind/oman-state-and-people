@@ -1,5 +1,7 @@
 # Oman: State and People — Interactive Revision
 
+Made by **Faisal Albusaidi**.
+
 An interactive, large-screen revision presentation and question bank for the university common course **Oman: State and People (UHE00111)**, covering Themes 1, 2, 3A, 3B and 4.
 
 - **Presentation** (`index.html`): 53 slides with 3D maps and globe, live charts, timelines, flowcharts and hover details.
